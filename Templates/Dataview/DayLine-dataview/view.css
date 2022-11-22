@@ -1,0 +1,18 @@
+.dms-day-line {
+  display: flex;
+  width: 100%;
+  height: 8px;
+  margin: 2px auto;
+  box-sizing: border-box;
+  background-color: rgba(128, 128, 128, .1);
+  border: 1px solid rgba(255, 255, 255, .3);
+  border-radius: 4px;
+  flex-wrap: nowrap;
+}
+.dms-day-line-bar {
+  height: 6px;
+  background-color: rgba(255, 128, 128, .4);
+  border-radius: 3px;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
