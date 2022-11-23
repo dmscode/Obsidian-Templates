@@ -2,7 +2,7 @@
  * @Author          : 稻米鼠
  * @Date            : 2022-10-22 09:48:06
  * @LastEditTime    : 2022-10-26 13:26:55
- * @FilePath        : \Obsidian\Templates\Dataview\Bookmarks-dataview\view.js
+ * @FilePath        : \Dataview\Bookmarks-dataview\view.js
  * @Description     : Obsidian Dataview 书签管理自定义视图
  */
 /**

@@ -2,7 +2,7 @@
  * @Author          : 稻米鼠
  * @Date            : 2022-11-02 14:00:26
  * @LastEditTime    : 2022-11-18 09:28:13
- * @FilePath        : \Obsidian\Templates\Scripts\get_tweet_card.js
+ * @FilePath        : \Scripts\get_tweet_card.js
  * @Description     : 
  */
 /** @type {object} 设置项 */

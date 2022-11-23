@@ -2,7 +2,7 @@
  * @Author          : 稻米鼠
  * @Date            : 2022-10-27 11:55:52
  * @LastEditTime    : 2022-10-28 08:18:59
- * @FilePath        : \Obsidian\Templates\Dataview\TaskProgress-dataview\view.js
+ * @FilePath        : \Dataview\TaskProgress-dataview\view.js
  * @Description     : 
  */
 /** @type {object} 默认设定 */

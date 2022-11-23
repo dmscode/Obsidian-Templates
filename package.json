@@ -7,6 +7,7 @@
   "license": "none",
   "private": true,
   "scripts": {
-    "build": "yarn version --patch && node ./build/build.js"
+    "build": "yarn version --patch && node ./build/build.js",
+    "deploy": "git add * && git commit -m \"Common update commit.\" && git push"
   }
 }

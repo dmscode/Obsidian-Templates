@@ -2,7 +2,7 @@
  * @Author          : 稻米鼠
  * @Date            : 2022-10-28 08:32:52
  * @LastEditTime    : 2022-11-18 13:43:45
- * @FilePath        : \Obsidian\Templates\Dataview\Heatmap-dataview\view.js
+ * @FilePath        : \Dataview\Heatmap-dataview\view.js
  * @Description     : 
  */
 /** @type {array} 所有笔记 */
