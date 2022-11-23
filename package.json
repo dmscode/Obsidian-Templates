@@ -1,12 +1,12 @@
 {
   "name": "ob-templates",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "index.js",
   "repository": "git@github.com:dmscode/Obsidian-Templates.git",
   "author": "dmscode <i@zji.me>",
   "license": "none",
   "private": true,
   "scripts": {
-    "build": "yarn version --patch && yarn ./build/build.js"
+    "build": "yarn version --patch && yarn build/build.js"
   }
 }
