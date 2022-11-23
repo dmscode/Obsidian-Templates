@@ -1,0 +1,27 @@
+.dms-task-progress {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.dms-task-progress-desc {
+  flex-shrink: 0;
+  font-size: 12px;
+  font-weight: 200;
+  margin-left: 1em;
+  line-height: 12px;
+}
+.dms-task-progress-bar {
+  width: 90%;
+  height: 8px;
+  margin: 2px auto;
+  box-sizing: border-box;
+  background-color: rgba(128, 128, 128, .1);
+  border: 1px solid rgba(255, 255, 255, .3);
+  border-radius: 4px;
+  flex-grow: 1;
+}
+.dms-task-progress-bar-inner {
+  height: 6px;
+  background-color: rgba(255, 128, 128, .4);
+  border-radius: 3px;
+}
