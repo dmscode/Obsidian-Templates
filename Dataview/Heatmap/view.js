@@ -1,9 +1,9 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-10-28 08:32:52
- * @LastEditTime    : 2022-11-18 13:43:45
- * @FilePath        : \Dataview\Heatmap-dataview\view.js
- * @Description     : 
+ * @LastEditTime    : 2022-11-23 15:57:29
+ * @FilePath        : \ob-templates\Dataview\Heatmap-dataview\view.js
+ * @Description     : 笔记热力图（Heatmap）
  */
 /** @type {array} 所有笔记 */
 const allNotes = dv.pages().filter(p=>p.file.ext==='md')

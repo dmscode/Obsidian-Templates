@@ -1,9 +1,9 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-10-27 11:55:52
- * @LastEditTime    : 2022-10-28 08:18:59
- * @FilePath        : \Dataview\TaskProgress-dataview\view.js
- * @Description     : 
+ * @LastEditTime    : 2022-11-23 16:00:29
+ * @FilePath        : \ob-templates\Dataview\TaskProgress-dataview\view.js
+ * @Description     : 任务完成度
  */
 /** @type {object} 默认设定 */
 const defaultOpt = {

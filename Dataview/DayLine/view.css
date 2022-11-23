@@ -1,3 +1,10 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-11-22 13:18:46
+ * @LastEditTime    : 2022-11-23 15:55:12
+ * @FilePath        : \ob-templates\Dataview\DayLine-dataview\view.css
+ * @Description     : 一日时间段标注
+ */
 .dms-day-line {
   display: flex;
   width: 100%;

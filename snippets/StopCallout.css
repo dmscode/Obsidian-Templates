@@ -1,0 +1,56 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-11-23 20:35:16
+ * @LastEditTime    : 2022-11-23 20:35:24
+ * @FilePath        : \ob-templates\snippets\StopCallout.css
+ * @Description     : 禁止通行分割条
+ */
+/* 禁止通行分割条 */
+.callout[data-callout="hr-stop"] {
+  --stop-yellow: #feab38;
+  --stop-black: #333338;
+  --stop-width: 36px;
+  --stop-border-width: 2px;
+  --stop-paper-rotate: 3deg;
+  position: relative;
+  background: none;
+  padding: 10px;
+}
+.callout[data-callout="hr-stop"]::before,
+.callout[data-callout="hr-stop"]::after {
+  position: absolute;
+  top: 0;
+  content: " ";
+  width: var(--stop-width);
+  height: 100%;
+  box-sizing: border-box;
+  border: var(--stop-border-width) solid var(--stop-black);
+  border-radius: 3px;
+}
+.callout[data-callout="hr-stop"]::before {
+  left: 0;
+  border-right: 0;
+}
+.callout[data-callout="hr-stop"]::after {
+  right: 0;
+  border-left: 0;
+}
+.callout[data-callout="hr-stop"] > .callout-title {
+  display: flex;
+  background: repeating-linear-gradient(-45deg, var(--stop-yellow), var(--stop-yellow) 15px, var(--stop-black) 15px, var(--stop-black) 30px);
+  justify-content: center;
+  border-radius: 3px;
+}
+.callout[data-callout="hr-stop"] > .callout-title > .callout-icon {
+  display: none;
+}
+.callout[data-callout="hr-stop"] > .callout-title > .callout-title-inner {
+  background: #F3F3E6;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, .3);
+  text-align: center;
+  line-height: 1em;
+  padding: 5px;
+  transform: rotate(var(--stop-paper-rotate));
+  color: var(--stop-black);
+  stroke: var(--stop-black);
+}

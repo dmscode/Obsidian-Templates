@@ -1,0 +1,46 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-11-23 20:30:33
+ * @LastEditTime    : 2022-11-23 20:32:32
+ * @FilePath        : \ob-templates\snippets\SideDockIconOrder.css
+ * @Description     : 侧边栏图标排序
+ */
+
+ /* 自定义菜单顺序 */
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Templater"] {
+  order: 10;
+}
+.side-dock-actions .side-dock-ribbon-action[aria-label*="管理工作区布局"] {
+  order: 20;
+}
+.side-dock-actions .side-dock-ribbon-action[aria-label*="查看关系图谱"] {
+  order: 30;
+}
+.side-dock-actions .side-dock-ribbon-action[aria-label*="根据需求自定义"] {
+  order: 40
+}
+.side-dock-actions .side-dock-ribbon-action[aria-label*="根据需求自定义"] {
+  order: 50
+}
+.side-dock-actions .side-dock-ribbon-action[aria-label*="根据需求自定义"] {
+  order: 60
+}
+.side-dock-actions .side-dock-ribbon-action[aria-label*="根据需求自定义"] {
+  order: 70
+}
+.side-dock-actions .side-dock-ribbon-action[aria-label*="根据需求自定义"] {
+  order: 80
+}
+.side-dock-actions .side-dock-ribbon-action[aria-label*="根据需求自定义"] {
+  order: 90
+}
+.side-dock-actions .side-dock-ribbon-action[aria-label*="Remotely Save"] {
+  order: 100;
+}
+
+.side-dock-actions .side-dock-ribbon-action[aria-label*="打开快速切换"],
+.side-dock-actions .side-dock-ribbon-action[aria-label*="插入模板"],
+.side-dock-actions .side-dock-ribbon-action[aria-label*="打开命令面板"],
+.side-dock-actions .side-dock-ribbon-action[aria-label*="打开 Markdown 格式转换器"] {
+  display: none;
+}

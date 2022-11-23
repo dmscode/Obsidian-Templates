@@ -1,3 +1,10 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-11-22 13:18:46
+ * @LastEditTime    : 2022-11-23 15:55:23
+ * @FilePath        : \ob-templates\Dataview\DayLine-dataview\view.js
+ * @Description     : 一日时间段标注
+ */
 /** @type {object} 默认配置 */
 const defaultOpt = {
   time: '06:00 18:00',
