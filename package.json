@@ -1,6 +1,6 @@
 {
   "name": "ob-templates",
-  "version": "0.0.23",
+  "version": "0.0.24",
   "main": "index.js",
   "repository": "git@github.com:dmscode/Obsidian-Templates.git",
   "author": "dmscode <i@zji.me>",
