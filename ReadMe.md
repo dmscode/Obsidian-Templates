@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.26&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.27&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -23,7 +23,7 @@
 - [简介](#%E7%AE%80%E4%BB%8B)
 - [使用说明](#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 - [关于收费](#%E5%85%B3%E4%BA%8E%E6%94%B6%E8%B4%B9)
-- [Table of Content](#Table%20of%20Content)
+- [Table of Content](#Table-of-Content)
 - [目录说明](#%E7%9B%AE%E5%BD%95%E8%AF%B4%E6%98%8E)
 - [模板列表](#%E6%A8%A1%E6%9D%BF%E5%88%97%E8%A1%A8)
     - [书签缩略图列表](#%E4%B9%A6%E7%AD%BE%E7%BC%A9%E7%95%A5%E5%9B%BE%E5%88%97%E8%A1%A8)
