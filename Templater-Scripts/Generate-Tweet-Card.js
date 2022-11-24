@@ -1,9 +1,10 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-11-02 14:00:26
- * @LastEditTime    : 2022-11-18 09:28:13
- * @FilePath        : \Scripts\get_tweet_card.js
+ * @LastEditTime    : 2022-11-24 09:15:32
+ * @FilePath        : \ob-templates\Templater-Scripts\Generate-Tweet-Card.js
  * @Description     : 
+ * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */
 /** @type {object} 设置项 */
 let opt = {}

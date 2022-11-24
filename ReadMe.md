@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.22&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.23&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -42,10 +42,10 @@
 
 ### 一日时间段标注
 
-- 使用说明：[一日时间段标注](./Docs/Dataview/DayLine.md)
+- 使用说明：[一日时间段标注](./Docs/Dataview/Day-Line.md)
 - 相关文件：
-    - [/Dataview/DayLine/view.css](./Dataview/DayLine/view.css)<sup>2022-11-23 15:55:12</sup>
-    - [/Dataview/DayLine/view.js](./Dataview/DayLine/view.js)<sup>2022-11-23 15:55:23</sup>
+    - [/Dataview/Day-Line/view.css](./Dataview/Day-Line/view.css)<sup>2022-11-23 15:55:12</sup>
+    - [/Dataview/Day-Line/view.js](./Dataview/Day-Line/view.js)<sup>2022-11-23 15:55:23</sup>
 
 ### 笔记热力图（Heatmap）
 
@@ -55,40 +55,40 @@
 
 ### 任务完成度
 
-- 使用说明：[任务完成度](./Docs/Dataview/TaskProgress.md)
+- 使用说明：[任务完成度](./Docs/Dataview/Task-Progress.md)
 - 相关文件：
-    - [/Dataview/TaskProgress/view.css](./Dataview/TaskProgress/view.css)<sup>2022-11-23 16:00:20</sup>
-    - [/Dataview/TaskProgress/view.js](./Dataview/TaskProgress/view.js)<sup>2022-11-23 16:00:29</sup>
+    - [/Dataview/Task-Progress/view.css](./Dataview/Task-Progress/view.css)<sup>2022-11-23 16:00:20</sup>
+    - [/Dataview/Task-Progress/view.js](./Dataview/Task-Progress/view.js)<sup>2022-11-23 16:00:29</sup>
 
 ### 自动打开入口笔记
 
-- 使用说明：[自动打开入口笔记](./Docs/QuickAdd/OpenHomePage.md)
+- 使用说明：[自动打开入口笔记](./Docs/QuickAdd/Open-Home-Page.md)
 - 相关文件：
-    - [/QuickAdd/OpenHomePage.js](./QuickAdd/OpenHomePage.js)<sup>2022-11-23 16:11:50</sup>
+    - [/QuickAdd/Open-Home-Page.js](./QuickAdd/Open-Home-Page.js)<sup>2022-11-23 16:11:50</sup>
 
 ### 侧边栏图标排序
 
-- 使用说明：[侧边栏图标排序](./Docs/Snippets/SideDockIconOrder.md)
+- 使用说明：[侧边栏图标排序](./Docs/Snippets/Side-Dock-Icon-Order.md)
 - 相关文件：
-    - [/snippets/SideDockIconOrder.css](./snippets/SideDockIconOrder.css)<sup>2022-11-23 20:32:32</sup>
+    - [/snippets/Side-Dock-Icon-Order..css](./snippets/Side-Dock-Icon-Order.css)<sup>2022-11-23 20:32:32</sup>
 
 ### 禁止通行分割条
 
-- 使用说明：[禁止通行分割条](./Docs/Snippets/StopCallout.md)
+- 使用说明：[禁止通行分割条](./Docs/Snippets/Stop-Callout.md)
 - 相关文件：
-    - [/snippets/StopCallout.css](./snippets/StopCallout.css)<sup>2022-11-23 20:35:24</sup>
+    - [/snippets/Stop-Callout.css](./snippets/Stop-Callout.css)<sup>2022-11-23 20:35:24</sup>
 
 ### 索引标签样式卡片
 
-- 使用说明：[索引标签样式卡片](./Docs/Snippets/PaperIndexCallout.md)
+- 使用说明：[索引标签样式卡片](./Docs/Snippets/Paper-Index-Callout.md)
 - 相关文件：
-    - [/snippets/PaperIndexCallout.css](./snippets/PaperIndexCallout.css)<sup>2022-11-23 20:37:59</sup>
+    - [/snippets/Paper-Index-Callout.css](./snippets/Paper-Index-Callout.css)<sup>2022-11-23 20:37:59</sup>
 
 ## 计划
 
 ### Next
 
-- [x] 相对规律的命名方式（大驼峰）
+- [x] 相对规律的命名方式（首字母大写搭配短划线，这样容易读）
 - [ ] 书写各个功能的对应文档
 - [x] 拆分 CSS Snippets
 - [ ] 笔记分栏归入 CSS Snippets

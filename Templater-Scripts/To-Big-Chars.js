@@ -1,23 +1,12 @@
-// const map = `
-// ╔|══════|══════|══════|══════|══════|══════|══════|══════|══════|══════|══════|══════|══════|══════|══════|╗
-// ║| ████ |  ██  | ████ | ████ | █  █ | ████ | ████ | ████ | ████ | ████ |      |      |      |      |      |║
-// ║| █  █ |   █  |    █ |    █ | █  █ | █    | █    |    █ | █  █ | █  █ |  ██  |      |      |    █ |      |║
-// ║| █  █ |   █  | ████ | ████ | █  █ | ████ | ████ |    █ | ████ | ████ |      | ████ |      |   █  |      |║
-// ║| █  █ |   █  | █    |    █ | ████ |    █ | █  █ |   █  | █  █ |    █ |  ██  |      |      |  █   |      |║
-// ║| ████ | ████ | ████ | ████ |    █ | ████ | ████ |   █  | ████ | ████ |      |      | ████ | █    |      |║
-// ╚|══════|══════|══════|══════|══════|══════|══════|══════|══════|══════|══════|══════|══════|══════|══════|╝
-// `.replace(/^\n|\n$/g, '')
-// const dict = {}
-// const keys = ['start', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', ':', '-', '_', '/', ' ', 'end']
-// keys.forEach(k=>{
-//   dict[k] = []
-// })
-// map.split(/\n/g).forEach((line,lineNum)=>{
-//   const letters = line.split(/\|/g)
-//   letters.forEach((l,i)=>{
-//     dict[keys[i]][lineNum] = l
-//   })
-// })
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-11-22 13:18:46
+ * @LastEditTime    : 2022-11-24 08:31:30
+ * @FilePath        : \ob-templates\Templater-Scripts\get_big_number.js
+ * @Description     : 输出大数字（文字）
+ * @HomePage        : https://github.com/dmscode/Obsidian-Templates
+ */
+
 const dict = {
   "0": [
       "══════",
@@ -179,7 +168,7 @@ const addNum = (arr, numName)=>{
     arr[i] = arr[i] ? arr[i]+line : line
   })
 }
-function get_big_number (number) {
+function main (number) {
   const strArr = []
   addNum(strArr, 'start')
   number.split('').forEach(n=>{
@@ -188,4 +177,4 @@ function get_big_number (number) {
   addNum(strArr, 'end')
   return strArr.join('\n')
 }
-module.exports = get_big_number;
+module.exports = main;

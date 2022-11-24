@@ -4,6 +4,7 @@
  * @LastEditTime    : 2022-11-23 20:35:24
  * @FilePath        : \ob-templates\snippets\StopCallout.css
  * @Description     : 禁止通行分割条
+ * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */
 /* 禁止通行分割条 */
 .callout[data-callout="hr-stop"] {

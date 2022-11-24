@@ -4,6 +4,7 @@
  * @LastEditTime    : 2022-10-26 13:26:55
  * @FilePath        : \Dataview\Bookmarks-dataview\view.js
  * @Description     : Obsidian Dataview 书签管理自定义视图
+ * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */
 /**
  * 获取图标链接
