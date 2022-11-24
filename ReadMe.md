@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.23&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.26&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -17,6 +17,26 @@
 [A cup of coffee.](https://afdian.net/a/daomishu)
 
 毕竟，咖啡就是生产力。
+
+## Table of Content
+
+- [简介](#%E7%AE%80%E4%BB%8B)
+- [使用说明](#%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
+- [关于收费](#%E5%85%B3%E4%BA%8E%E6%94%B6%E8%B4%B9)
+- [Table of Content](#Table%20of%20Content)
+- [目录说明](#%E7%9B%AE%E5%BD%95%E8%AF%B4%E6%98%8E)
+- [模板列表](#%E6%A8%A1%E6%9D%BF%E5%88%97%E8%A1%A8)
+    - [书签缩略图列表](#%E4%B9%A6%E7%AD%BE%E7%BC%A9%E7%95%A5%E5%9B%BE%E5%88%97%E8%A1%A8)
+    - [一日时间段标注](#%E4%B8%80%E6%97%A5%E6%97%B6%E9%97%B4%E6%AE%B5%E6%A0%87%E6%B3%A8)
+    - [笔记热力图（Heatmap）](#%E7%AC%94%E8%AE%B0%E7%83%AD%E5%8A%9B%E5%9B%BEHeatmap)
+    - [任务完成度](#%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90%E5%BA%A6)
+    - [自动打开入口笔记](#%E8%87%AA%E5%8A%A8%E6%89%93%E5%BC%80%E5%85%A5%E5%8F%A3%E7%AC%94%E8%AE%B0)
+    - [侧边栏图标排序](#%E4%BE%A7%E8%BE%B9%E6%A0%8F%E5%9B%BE%E6%A0%87%E6%8E%92%E5%BA%8F)
+    - [禁止通行分割条](#%E7%A6%81%E6%AD%A2%E9%80%9A%E8%A1%8C%E5%88%86%E5%89%B2%E6%9D%A1)
+    - [索引标签样式卡片](#%E7%B4%A2%E5%BC%95%E6%A0%87%E7%AD%BE%E6%A0%B7%E5%BC%8F%E5%8D%A1%E7%89%87)
+- [计划](#%E8%AE%A1%E5%88%92)
+    - [Next](#Next)
+    - [Plan](#Plan)
 
 ## 目录说明
 
