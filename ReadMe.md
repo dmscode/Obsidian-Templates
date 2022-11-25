@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.40&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.41&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -87,22 +87,22 @@
 
 ### 任务完成度
 
-- 使用说明：[任务完成度](./Docs/Dataview/Task-Progress.md)（待完善）
+- 使用说明：[任务完成度](./Docs/Dataview/Task-Progress.md)
 - 相关文件：
     - [/Dataview/Task-Progress/view.css](./Dataview/Task-Progress/view.css)<sup>2022-11-23 16:00:20</sup>
     - [/Dataview/Task-Progress/view.js](./Dataview/Task-Progress/view.js)<sup>2022-11-23 16:00:29</sup>
 
 ### 自动打开入口笔记
 
-- 使用说明：[自动打开入口笔记](./Docs/QuickAdd/Open-Home-Page.md)（待完善）
+- 使用说明：[自动打开入口笔记](./Docs/QuickAdd/Open-Home-Page.md)
 - 相关文件：
     - [/QuickAdd/Open-Home-Page.js](./QuickAdd/Open-Home-Page.js)<sup>2022-11-23 16:11:50</sup>
 
 ### 侧边栏图标排序
 
-- 使用说明：[侧边栏图标排序](./Docs/Snippets/Side-Dock-Icon-Order.md)（待完善）
+- 使用说明：[侧边栏图标排序](./Docs/Snippets/Side-Dock-Icon-Order.md)
 - 相关文件：
-    - [/snippets/Side-Dock-Icon-Order..css](./snippets/Side-Dock-Icon-Order.css)<sup>2022-11-23 20:32:32</sup>
+    - [/snippets/Side-Dock-Icon-Order.css](./snippets/Side-Dock-Icon-Order.css)<sup>2022-11-23 20:32:32</sup>
 
 ### 笔记内容分栏
 
@@ -197,9 +197,9 @@
     - [ ] 书签缩略图列表
     - [x] 一日时间段标注
     - [ ] 笔记热力图（Heatmap）
-    - [ ] 任务完成度
-    - [ ] 自动打开入口笔记
-    - [ ] 侧边栏图标排序
+    - [x] 任务完成度
+    - [x] 自动打开入口笔记
+    - [x] 侧边栏图标排序
     - [ ] 笔记内容分栏
     - [ ] 禁止通行分割条
     - [ ] 索引标签样式卡片
