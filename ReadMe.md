@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.29&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.30&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -45,6 +45,7 @@
     - [获取年进度](#%E8%8E%B7%E5%8F%96%E5%B9%B4%E8%BF%9B%E5%BA%A6)
     - [对选中行排序](#%E5%AF%B9%E9%80%89%E4%B8%AD%E8%A1%8C%E6%8E%92%E5%BA%8F)
     - [转换为大字符](#%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%A4%A7%E5%AD%97%E7%AC%A6)
+- [技巧分享](#%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB)
 - [计划](#%E8%AE%A1%E5%88%92)
     - [Next](#Next)
     - [Plan](#Plan)
@@ -181,15 +182,38 @@
 - 相关文件：
     - [/Templater-Scripts/To-Big-Chars.js](./Templater-Scripts/To-Big-Chars.js)<sup>2022-11-24 08:31:30</sup>
 
+## 技巧分享
+
+- [动态插入代码](./Docs/Usages/Dynamic-Insert-Code.md)
+
 ## 计划
 
 ### Next
 
-- [x] 相对规律的命名方式（首字母大写搭配短划线，这样容易读）
 - [ ] 书写各个功能的对应文档
-- [x] 拆分 CSS Snippets
-- [ ] 笔记分栏归入 CSS Snippets
-- [ ] 用 Dataview 动态插入样式的方法
+    - [ ] 书签缩略图列表
+    - [ ] 一日时间段标注
+    - [ ] 笔记热力图（Heatmap）
+    - [ ] 任务完成度
+    - [ ] 自动打开入口笔记
+    - [ ] 侧边栏图标排序
+    - [ ] 笔记内容分栏
+    - [ ] 禁止通行分割条
+    - [ ] 索引标签样式卡片
+    - [ ] 生成文字卡片
+    - [ ] 获取随机诗词
+    - [ ] 获取随机背景色
+    - [ ] 获取一言
+    - [ ] 获取今日日期
+    - [ ] 获取历史上的今天
+    - [ ] 获取天气
+    - [ ] 获取年进度
+    - [ ] 对选中行排序
+    - [ ] 转换为大字符
 - [ ] 网页剪切缩略视图改为笔记卡片视图
+- [ ] 用 Dataview 动态插入样式的方法
+- [x] 笔记分栏归入 CSS Snippets
+- [x] 拆分 CSS Snippets
+- [x] 相对规律的命名方式（首字母大写搭配短划线，这样容易读）
 
 ### Plan
