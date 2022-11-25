@@ -41,11 +41,11 @@ await dv.view('/Dataview/Day-Line', {time: '08:30~11:30 13:30~18:00'})
 
 ```dataviewjs
 await dv.view(
-	'/Dataview/Day-Line',
-	{
-		time: '08:30~11:30 13:30~18:00',
-		style: [6, 7]
-	})
+  '/Dataview/Day-Line',
+  {
+    time: '08:30~11:30 13:30~18:00',
+    style: [6, 7]
+  })
 ```
 
 这里使用换行和缩进让代码变得更容易阅读。
@@ -58,10 +58,10 @@ await dv.view(
 
 ```dataviewjs
 await dv.view(
-	'/Dataview/Day-Line',
-	{
-		time: '20:00 21:30~06:00 08:00',
-		style: [6, 7],
-		nextDay: true
-	})
+  '/Dataview/Day-Line',
+  {
+    time: '20:00 21:30~06:00 08:00',
+    style: [6, 7],
+    nextDay: true
+  })
 ```
