@@ -1,10 +1,10 @@
 ---
-created: 2022-11-25T10:35:42+08:00
-updated: 2022-11-25T14:22:17+08:00
+created: 2022-11-25T14:29:13+08:00
+updated: 2022-11-25T14:29:13+08:00
 ---
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.35&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.36&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
