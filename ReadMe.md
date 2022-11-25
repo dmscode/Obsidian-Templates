@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.30&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.31&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -67,118 +67,118 @@
 
 ### 书签缩略图列表
 
-- 使用说明：[书签缩略图列表](./Docs/Dataview/Bookmarks.md)
+- 使用说明：[书签缩略图列表](./Docs/Dataview/Bookmarks.md)（待完善）
 - 相关文件：
     - [/Dataview/Bookmarks/view.css](./Dataview/Bookmarks/view.css)<sup>2022-11-23 10:11:20</sup>
     - [/Dataview/Bookmarks/view.js](./Dataview/Bookmarks/view.js)<sup>2022-10-26 13:26:55</sup>
 
 ### 一日时间段标注
 
-- 使用说明：[一日时间段标注](./Docs/Dataview/Day-Line.md)
+- 使用说明：[一日时间段标注](./Docs/Dataview/Day-Line.md)（待完善）
 - 相关文件：
     - [/Dataview/Day-Line/view.css](./Dataview/Day-Line/view.css)<sup>2022-11-23 15:55:12</sup>
     - [/Dataview/Day-Line/view.js](./Dataview/Day-Line/view.js)<sup>2022-11-23 15:55:23</sup>
 
 ### 笔记热力图（Heatmap）
 
-- 使用说明：[笔记热力图（Heatmap）](./Docs/Dataview/Heatmap.md)
+- 使用说明：[笔记热力图（Heatmap）](./Docs/Dataview/Heatmap.md)（待完善）
 - 相关文件：
     - [/Dataview/Heatmap/view.js](./Dataview/Heatmap/view.js)<sup>2022-11-23 15:57:29</sup>
 
 ### 任务完成度
 
-- 使用说明：[任务完成度](./Docs/Dataview/Task-Progress.md)
+- 使用说明：[任务完成度](./Docs/Dataview/Task-Progress.md)（待完善）
 - 相关文件：
     - [/Dataview/Task-Progress/view.css](./Dataview/Task-Progress/view.css)<sup>2022-11-23 16:00:20</sup>
     - [/Dataview/Task-Progress/view.js](./Dataview/Task-Progress/view.js)<sup>2022-11-23 16:00:29</sup>
 
 ### 自动打开入口笔记
 
-- 使用说明：[自动打开入口笔记](./Docs/QuickAdd/Open-Home-Page.md)
+- 使用说明：[自动打开入口笔记](./Docs/QuickAdd/Open-Home-Page.md)（待完善）
 - 相关文件：
     - [/QuickAdd/Open-Home-Page.js](./QuickAdd/Open-Home-Page.js)<sup>2022-11-23 16:11:50</sup>
 
 ### 侧边栏图标排序
 
-- 使用说明：[侧边栏图标排序](./Docs/Snippets/Side-Dock-Icon-Order.md)
+- 使用说明：[侧边栏图标排序](./Docs/Snippets/Side-Dock-Icon-Order.md)（待完善）
 - 相关文件：
     - [/snippets/Side-Dock-Icon-Order..css](./snippets/Side-Dock-Icon-Order.css)<sup>2022-11-23 20:32:32</sup>
 
 ### 笔记内容分栏
 
-- 使用说明：[笔记内容分栏](./Docs/Snippets/Split-Page-Callout.md)
+- 使用说明：[笔记内容分栏](./Docs/Snippets/Split-Page-Callout.md)（待完善）
 - 相关文件：
     - [/snippets/Split-Page-Callout.css](./snippets/Split-Page-Callout.css)<sup>2022-11-25 08:35:56</sup>
 
 ### 禁止通行分割条
 
-- 使用说明：[禁止通行分割条](./Docs/Snippets/Stop-Callout.md)
+- 使用说明：[禁止通行分割条](./Docs/Snippets/Stop-Callout.md)（待完善）
 - 相关文件：
     - [/snippets/Stop-Callout.css](./snippets/Stop-Callout.css)<sup>2022-11-23 20:35:24</sup>
 
 ### 索引标签样式卡片
 
-- 使用说明：[索引标签样式卡片](./Docs/Snippets/Paper-Index-Callout.md)
+- 使用说明：[索引标签样式卡片](./Docs/Snippets/Paper-Index-Callout.md)（待完善）
 - 相关文件：
     - [/snippets/Paper-Index-Callout.css](./snippets/Paper-Index-Callout.css)<sup>2022-11-23 20:37:59</sup>
 
 ### 生成文字卡片
 
-- 使用说明：[生成文字卡片](./Docs/Templater/Generate-Tweet-Card.md)
+- 使用说明：[生成文字卡片](./Docs/Templater/Generate-Tweet-Card.md)（待完善）
 - 相关文件：
     - [/Templater-Scripts/Generate-Tweet-Card.js](./Templater-Scripts/Generate-Tweet-Card.js)<sup>2022-11-24 09:15:32</sup>
 
 ### 获取随机诗词
 
-- 使用说明：[获取随机诗词](./Docs/Templater/Get-Poems.md)
+- 使用说明：[获取随机诗词](./Docs/Templater/Get-Poems.md)（待完善）
 - 相关文件：
     - [/Templater-Scripts/Get-Poems.js](./Templater-Scripts/Get-Poems.js)<sup>2022-11-25 08:51:31</sup>
 
 ### 获取随机背景色
 
-- 使用说明：[获取随机背景色](./Docs/Templater/Get-Random-Gradient.md)
+- 使用说明：[获取随机背景色](./Docs/Templater/Get-Random-Gradient.md)（待完善）
 - 相关文件：
     - [/Templater-Scripts/Get-Random-Gradient.js](./Templater-Scripts/Get-Random-Gradient.js)<sup>2022-11-25 08:51:37</sup>
 
 ### 获取一言
 
-- 使用说明：[获取一言](./Docs/Templater/Get-Sentence.md)
+- 使用说明：[获取一言](./Docs/Templater/Get-Sentence.md)（待完善）
 - 相关文件：
     - [/Templater-Scripts/Get-Sentence.js](./Templater-Scripts/Get-Sentence.js)<sup>2022-11-25 08:51:43</sup>
 
 ### 获取今日日期
 
-- 使用说明：[获取今日日期](./Docs/Templater/Get-Today-Date.md)
+- 使用说明：[获取今日日期](./Docs/Templater/Get-Today-Date.md)（待完善）
 - 相关文件：
     - [/Templater-Scripts/Get-Today-Date.js](./Templater-Scripts/Get-Today-Date.js)<sup>2022-11-25 08:51:47</sup>
 
 ### 获取历史上的今天
 
-- 使用说明：[获取历史上的今天](./Docs/Templater/Get-Today-History.md)
+- 使用说明：[获取历史上的今天](./Docs/Templater/Get-Today-History.md)（待完善）
 - 相关文件：
     - [/Templater-Scripts/Get-Today-History.js](./Templater-Scripts/Get-Today-History.js)<sup>2022-11-25 08:51:51</sup>
 
 ### 获取天气
 
-- 使用说明：[获取天气](./Docs/Templater/Get-Weather.md)
+- 使用说明：[获取天气](./Docs/Templater/Get-Weather.md)（待完善）
 - 相关文件：
     - [/Templater-Scripts/Get-Weather.js](./Templater-Scripts/Get-Weather.js)<sup>2022-11-25 08:51:55</sup>
 
 ### 获取年进度
 
-- 使用说明：[获取年进度](./Docs/Templater/Get-Year-Progress.md)
+- 使用说明：[获取年进度](./Docs/Templater/Get-Year-Progress.md)（待完善）
 - 相关文件：
     - [/Templater-Scripts/Get-Year-Progress.js](./Templater-Scripts/Get-Year-Progress.js)<sup>2022-11-25 08:51:59</sup>
 
 ### 对选中行排序
 
-- 使用说明：[对选中行排序](./Docs/Templater/Sort-Tasks-Lines.md)
+- 使用说明：[对选中行排序](./Docs/Templater/Sort-Tasks-Lines.md)（待完善）
 - 相关文件：
     - [/Templater-Scripts/Sort-Tasks-Lines.js](./Templater-Scripts/Sort-Tasks-Lines.js)<sup>2022-11-25 08:52:03</sup>
 
 ### 转换为大字符
 
-- 使用说明：[转换为大字符](./Docs/Templater/To-Big-Chars.md)
+- 使用说明：[转换为大字符](./Docs/Templater/To-Big-Chars.md)（待完善）
 - 相关文件：
     - [/Templater-Scripts/To-Big-Chars.js](./Templater-Scripts/To-Big-Chars.js)<sup>2022-11-24 08:31:30</sup>
 
