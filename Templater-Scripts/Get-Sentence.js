@@ -1,9 +1,10 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-11-22 13:18:46
- * @LastEditTime    : 2022-11-25 08:51:43
+ * @LastEditTime    : 2022-11-25 21:18:45
  * @FilePath        : \ob-templates\Templater-Scripts\Get-Sentence.js
- * @Description     : 
+ * @Description     : 获取一言
+ * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */
 async function get_sentence (tp, type) {
   const apis = {

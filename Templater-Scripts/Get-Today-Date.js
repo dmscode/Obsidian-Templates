@@ -1,9 +1,9 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-11-22 13:18:46
- * @LastEditTime    : 2022-11-25 08:51:47
+ * @LastEditTime    : 2022-11-25 21:19:15
  * @FilePath        : \ob-templates\Templater-Scripts\Get-Today-Date.js
- * @Description     : 
+ * @Description     : 获取今日日期
  * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */
 function get_date () {

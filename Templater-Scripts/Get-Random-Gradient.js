@@ -1,9 +1,9 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-11-22 13:18:46
- * @LastEditTime    : 2022-11-25 08:51:37
+ * @LastEditTime    : 2022-11-25 21:18:31
  * @FilePath        : \ob-templates\Templater-Scripts\Get-Random-Gradient.js
- * @Description     : 
+ * @Description     : 获取随机背景色
  * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */
 function get_random_color (text) { const gradientArr = [

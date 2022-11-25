@@ -1,9 +1,9 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-11-22 13:18:46
- * @LastEditTime    : 2022-11-24 08:31:30
- * @FilePath        : \ob-templates\Templater-Scripts\get_big_number.js
- * @Description     : 输出大数字（文字）
+ * @LastEditTime    : 2022-11-25 21:20:16
+ * @FilePath        : \ob-templates\Templater-Scripts\To-Big-Chars.js
+ * @Description     : 转换为大字符
  * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */
 

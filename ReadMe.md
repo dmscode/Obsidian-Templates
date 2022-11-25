@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.46&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.47&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -132,25 +132,25 @@
 
 - 使用说明：[获取随机诗词](./Docs/Templater/Get-Poems.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/Get-Poems.js](./Templater-Scripts/Get-Poems.js)<sup>2022-11-25 08:51:31</sup>
+    - [/Templater-Scripts/Get-Poems.js](./Templater-Scripts/Get-Poems.js)<sup>2022-11-25 21:18:21</sup>
 
 ### 获取随机背景色
 
 - 使用说明：[获取随机背景色](./Docs/Templater/Get-Random-Gradient.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/Get-Random-Gradient.js](./Templater-Scripts/Get-Random-Gradient.js)<sup>2022-11-25 08:51:37</sup>
+    - [/Templater-Scripts/Get-Random-Gradient.js](./Templater-Scripts/Get-Random-Gradient.js)<sup>2022-11-25 21:18:31</sup>
 
 ### 获取一言
 
 - 使用说明：[获取一言](./Docs/Templater/Get-Sentence.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/Get-Sentence.js](./Templater-Scripts/Get-Sentence.js)<sup>2022-11-25 08:51:43</sup>
+    - [/Templater-Scripts/Get-Sentence.js](./Templater-Scripts/Get-Sentence.js)<sup>2022-11-25 21:18:45</sup>
 
 ### 获取今日日期
 
 - 使用说明：[获取今日日期](./Docs/Templater/Get-Today-Date.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/Get-Today-Date.js](./Templater-Scripts/Get-Today-Date.js)<sup>2022-11-25 08:51:47</sup>
+    - [/Templater-Scripts/Get-Today-Date.js](./Templater-Scripts/Get-Today-Date.js)<sup>2022-11-25 21:19:15</sup>
 
 ### 获取历史上的今天
 
@@ -162,25 +162,25 @@
 
 - 使用说明：[获取天气](./Docs/Templater/Get-Weather.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/Get-Weather.js](./Templater-Scripts/Get-Weather.js)<sup>2022-11-25 08:51:55</sup>
+    - [/Templater-Scripts/Get-Weather.js](./Templater-Scripts/Get-Weather.js)<sup>2022-11-25 21:19:35</sup>
 
 ### 获取年进度
 
 - 使用说明：[获取年进度](./Docs/Templater/Get-Year-Progress.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/Get-Year-Progress.js](./Templater-Scripts/Get-Year-Progress.js)<sup>2022-11-25 08:51:59</sup>
+    - [/Templater-Scripts/Get-Year-Progress.js](./Templater-Scripts/Get-Year-Progress.js)<sup>2022-11-25 21:19:46</sup>
 
 ### 对选中行排序
 
 - 使用说明：[对选中行排序](./Docs/Templater/Sort-Tasks-Lines.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/Sort-Tasks-Lines.js](./Templater-Scripts/Sort-Tasks-Lines.js)<sup>2022-11-25 08:52:03</sup>
+    - [/Templater-Scripts/Sort-Tasks-Lines.js](./Templater-Scripts/Sort-Tasks-Lines.js)<sup>2022-11-25 21:19:58</sup>
 
 ### 转换为大字符
 
 - 使用说明：[转换为大字符](./Docs/Templater/To-Big-Chars.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/To-Big-Chars.js](./Templater-Scripts/To-Big-Chars.js)<sup>2022-11-24 08:31:30</sup>
+    - [/Templater-Scripts/To-Big-Chars.js](./Templater-Scripts/To-Big-Chars.js)<sup>2022-11-25 21:20:16</sup>
 
 
 
@@ -197,16 +197,16 @@
 ### Next
 
 - [ ] 书写各个功能的对应文档
-    - [ ] 书签缩略图列表
+    - [>] 书签缩略图列表
     - [x] 一日时间段标注
-    - [ ] 笔记热力图（Heatmap）
+    - [>] 笔记热力图（Heatmap）
     - [x] 任务完成度
     - [x] 自动打开入口笔记
     - [x] 侧边栏图标排序
     - [x] 笔记内容分栏
     - [x] 禁止通行分割条
     - [x] 索引标签样式卡片
-    - [ ] 生成文字卡片
+    - [>] 生成文字卡片
     - [ ] 获取随机诗词
     - [ ] 获取随机背景色
     - [ ] 获取一言

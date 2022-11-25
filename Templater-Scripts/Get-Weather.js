@@ -1,9 +1,9 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-11-22 13:18:46
- * @LastEditTime    : 2022-11-25 08:51:55
+ * @LastEditTime    : 2022-11-25 21:19:35
  * @FilePath        : \ob-templates\Templater-Scripts\Get-Weather.js
- * @Description     : 
+ * @Description     : 获取天气
  * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */
 async function get_weather (city='beijing', format="天气：%c %C 气温：%t 风力：%w  \\n月相：%m 日出时间：%S 日落时间：%s") {

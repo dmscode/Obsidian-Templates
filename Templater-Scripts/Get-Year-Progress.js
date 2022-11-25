@@ -1,9 +1,9 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-11-22 13:18:46
- * @LastEditTime    : 2022-11-25 08:51:59
+ * @LastEditTime    : 2022-11-25 21:19:46
  * @FilePath        : \ob-templates\Templater-Scripts\Get-Year-Progress.js
- * @Description     : 
+ * @Description     : 获取年进度
  * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */
 function get_year_progress(length=20){
