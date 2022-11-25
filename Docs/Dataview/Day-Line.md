@@ -9,8 +9,8 @@ updated: 2022-11-25 13:56:17
 
 ## 相关文件
 
-    - [/Dataview/Day-Line/view.css](./Dataview/Day-Line/view.css)
-    - [/Dataview/Day-Line/view.js](./Dataview/Day-Line/view.js)
+- [/Dataview/Day-Line/view.css](../../Dataview/Day-Line/view.css)
+- [/Dataview/Day-Line/view.js](../../Dataview/Day-Line/view.js)
 
 ## 使用方法
 
