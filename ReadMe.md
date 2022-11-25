@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.31&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.32&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -211,7 +211,7 @@
     - [ ] 对选中行排序
     - [ ] 转换为大字符
 - [ ] 网页剪切缩略视图改为笔记卡片视图
-- [ ] 用 Dataview 动态插入样式的方法
+- [x] 用 Dataview 动态插入样式的方法
 - [x] 笔记分栏归入 CSS Snippets
 - [x] 拆分 CSS Snippets
 - [x] 相对规律的命名方式（首字母大写搭配短划线，这样容易读）
