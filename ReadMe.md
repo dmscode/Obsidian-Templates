@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.42&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.43&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -189,6 +189,7 @@
 - [动态插入代码](./Docs/Usages/Dynamic-Insert-Code.md)
 - [Dataview 自定义视图的使用方法](./Docs/Usages/Dataview-Custom-View.md)
 - [CSS Snippets 的安装方法](./Docs/Usages/Install-CSS-Snippets.md)
+- [Callout 样式的使用方法](./Docs/Usages/How-to-Use-Callout.md)
 
 ## 计划
 
