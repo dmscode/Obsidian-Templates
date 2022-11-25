@@ -8,7 +8,7 @@
 
 ## 使用方法
 
-首先请阅读：[CSS Snippets 的安装方法](../Usages/Install-CSS-Snippets.md)。
+首先请阅读：[Callout 样式的使用方法](../Usages/How-to-Use-Callout.md)。
 
 然后按如下格式使用：
 
