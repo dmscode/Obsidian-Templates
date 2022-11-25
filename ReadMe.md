@@ -1,6 +1,10 @@
+---
+created: 2022-11-25T10:35:42+08:00
+updated: 2022-11-25T14:09:44+08:00
+---
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.32&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.33&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -74,7 +78,7 @@
 
 ### 一日时间段标注
 
-- 使用说明：[一日时间段标注](./Docs/Dataview/Day-Line.md)（待完善）
+- 使用说明：[一日时间段标注](./Docs/Dataview/Day-Line.md)
 - 相关文件：
     - [/Dataview/Day-Line/view.css](./Dataview/Day-Line/view.css)<sup>2022-11-23 15:55:12</sup>
     - [/Dataview/Day-Line/view.js](./Dataview/Day-Line/view.js)<sup>2022-11-23 15:55:23</sup>
@@ -182,9 +186,12 @@
 - 相关文件：
     - [/Templater-Scripts/To-Big-Chars.js](./Templater-Scripts/To-Big-Chars.js)<sup>2022-11-24 08:31:30</sup>
 
+
+
 ## 技巧分享
 
 - [动态插入代码](./Docs/Usages/Dynamic-Insert-Code.md)
+- [Dataview 自定义视图的使用方法](./Docs/Usages/Dataview-Custom-View.md)
 
 ## 计划
 
@@ -192,7 +199,7 @@
 
 - [ ] 书写各个功能的对应文档
     - [ ] 书签缩略图列表
-    - [ ] 一日时间段标注
+    - [x] 一日时间段标注
     - [ ] 笔记热力图（Heatmap）
     - [ ] 任务完成度
     - [ ] 自动打开入口笔记
