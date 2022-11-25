@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.43&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.44&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -106,19 +106,19 @@
 
 ### 笔记内容分栏
 
-- 使用说明：[笔记内容分栏](./Docs/Snippets/Split-Page-Callout.md)（待完善）
+- 使用说明：[笔记内容分栏](./Docs/Snippets/Split-Page-Callout.md)
 - 相关文件：
     - [/snippets/Split-Page-Callout.css](./snippets/Split-Page-Callout.css)<sup>2022-11-25 08:35:56</sup>
 
 ### 禁止通行分割条
 
-- 使用说明：[禁止通行分割条](./Docs/Snippets/Stop-Callout.md)（待完善）
+- 使用说明：[禁止通行分割条](./Docs/Snippets/Stop-Callout.md)
 - 相关文件：
     - [/snippets/Stop-Callout.css](./snippets/Stop-Callout.css)<sup>2022-11-23 20:35:24</sup>
 
 ### 索引标签样式卡片
 
-- 使用说明：[索引标签样式卡片](./Docs/Snippets/Paper-Index-Callout.md)（待完善）
+- 使用说明：[索引标签样式卡片](./Docs/Snippets/Paper-Index-Callout.md)
 - 相关文件：
     - [/snippets/Paper-Index-Callout.css](./snippets/Paper-Index-Callout.css)<sup>2022-11-23 20:37:59</sup>
 
@@ -190,6 +190,7 @@
 - [Dataview 自定义视图的使用方法](./Docs/Usages/Dataview-Custom-View.md)
 - [CSS Snippets 的安装方法](./Docs/Usages/Install-CSS-Snippets.md)
 - [Callout 样式的使用方法](./Docs/Usages/How-to-Use-Callout.md)
+- [Templater 脚本的使用方法](./Docs/Usages/How-to-Use-Templater-Script.md)
 
 ## 计划
 
@@ -202,9 +203,9 @@
     - [x] 任务完成度
     - [x] 自动打开入口笔记
     - [x] 侧边栏图标排序
-    - [ ] 笔记内容分栏
-    - [ ] 禁止通行分割条
-    - [ ] 索引标签样式卡片
+    - [x] 笔记内容分栏
+    - [x] 禁止通行分割条
+    - [x] 索引标签样式卡片
     - [ ] 生成文字卡片
     - [ ] 获取随机诗词
     - [ ] 获取随机背景色
