@@ -1,3 +1,11 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-11-22 13:18:46
+ * @LastEditTime    : 2022-11-25 08:51:31
+ * @FilePath        : \ob-templates\Templater-Scripts\Get-Poems.js
+ * @Description     : 
+ * @HomePage        : https://github.com/dmscode/Obsidian-Templates
+ */
 async function get_poems () {
   const response = await fetch("https://v1.jinrishici.com/all.json")
   const data = await response.json()

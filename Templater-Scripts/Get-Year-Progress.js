@@ -1,3 +1,11 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-11-22 13:18:46
+ * @LastEditTime    : 2022-11-25 08:51:59
+ * @FilePath        : \ob-templates\Templater-Scripts\Get-Year-Progress.js
+ * @Description     : 
+ * @HomePage        : https://github.com/dmscode/Obsidian-Templates
+ */
 function get_year_progress(length=20){
   const now = new Date()
   const year = now.getFullYear()

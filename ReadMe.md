@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.27&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.29&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -32,8 +32,19 @@
     - [任务完成度](#%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90%E5%BA%A6)
     - [自动打开入口笔记](#%E8%87%AA%E5%8A%A8%E6%89%93%E5%BC%80%E5%85%A5%E5%8F%A3%E7%AC%94%E8%AE%B0)
     - [侧边栏图标排序](#%E4%BE%A7%E8%BE%B9%E6%A0%8F%E5%9B%BE%E6%A0%87%E6%8E%92%E5%BA%8F)
+    - [笔记内容分栏](#%E7%AC%94%E8%AE%B0%E5%86%85%E5%AE%B9%E5%88%86%E6%A0%8F)
     - [禁止通行分割条](#%E7%A6%81%E6%AD%A2%E9%80%9A%E8%A1%8C%E5%88%86%E5%89%B2%E6%9D%A1)
     - [索引标签样式卡片](#%E7%B4%A2%E5%BC%95%E6%A0%87%E7%AD%BE%E6%A0%B7%E5%BC%8F%E5%8D%A1%E7%89%87)
+    - [生成文字卡片](#%E7%94%9F%E6%88%90%E6%96%87%E5%AD%97%E5%8D%A1%E7%89%87)
+    - [获取随机诗词](#%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E8%AF%97%E8%AF%8D)
+    - [获取随机背景色](#%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E8%83%8C%E6%99%AF%E8%89%B2)
+    - [获取一言](#%E8%8E%B7%E5%8F%96%E4%B8%80%E8%A8%80)
+    - [获取今日日期](#%E8%8E%B7%E5%8F%96%E4%BB%8A%E6%97%A5%E6%97%A5%E6%9C%9F)
+    - [获取历史上的今天](#%E8%8E%B7%E5%8F%96%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9)
+    - [获取天气](#%E8%8E%B7%E5%8F%96%E5%A4%A9%E6%B0%94)
+    - [获取年进度](#%E8%8E%B7%E5%8F%96%E5%B9%B4%E8%BF%9B%E5%BA%A6)
+    - [对选中行排序](#%E5%AF%B9%E9%80%89%E4%B8%AD%E8%A1%8C%E6%8E%92%E5%BA%8F)
+    - [转换为大字符](#%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%A4%A7%E5%AD%97%E7%AC%A6)
 - [计划](#%E8%AE%A1%E5%88%92)
     - [Next](#Next)
     - [Plan](#Plan)
@@ -92,6 +103,12 @@
 - 相关文件：
     - [/snippets/Side-Dock-Icon-Order..css](./snippets/Side-Dock-Icon-Order.css)<sup>2022-11-23 20:32:32</sup>
 
+### 笔记内容分栏
+
+- 使用说明：[笔记内容分栏](./Docs/Snippets/Split-Page-Callout.md)
+- 相关文件：
+    - [/snippets/Split-Page-Callout.css](./snippets/Split-Page-Callout.css)<sup>2022-11-25 08:35:56</sup>
+
 ### 禁止通行分割条
 
 - 使用说明：[禁止通行分割条](./Docs/Snippets/Stop-Callout.md)
@@ -103,6 +120,66 @@
 - 使用说明：[索引标签样式卡片](./Docs/Snippets/Paper-Index-Callout.md)
 - 相关文件：
     - [/snippets/Paper-Index-Callout.css](./snippets/Paper-Index-Callout.css)<sup>2022-11-23 20:37:59</sup>
+
+### 生成文字卡片
+
+- 使用说明：[生成文字卡片](./Docs/Templater/Generate-Tweet-Card.md)
+- 相关文件：
+    - [/Templater-Scripts/Generate-Tweet-Card.js](./Templater-Scripts/Generate-Tweet-Card.js)<sup>2022-11-24 09:15:32</sup>
+
+### 获取随机诗词
+
+- 使用说明：[获取随机诗词](./Docs/Templater/Get-Poems.md)
+- 相关文件：
+    - [/Templater-Scripts/Get-Poems.js](./Templater-Scripts/Get-Poems.js)<sup>2022-11-25 08:51:31</sup>
+
+### 获取随机背景色
+
+- 使用说明：[获取随机背景色](./Docs/Templater/Get-Random-Gradient.md)
+- 相关文件：
+    - [/Templater-Scripts/Get-Random-Gradient.js](./Templater-Scripts/Get-Random-Gradient.js)<sup>2022-11-25 08:51:37</sup>
+
+### 获取一言
+
+- 使用说明：[获取一言](./Docs/Templater/Get-Sentence.md)
+- 相关文件：
+    - [/Templater-Scripts/Get-Sentence.js](./Templater-Scripts/Get-Sentence.js)<sup>2022-11-25 08:51:43</sup>
+
+### 获取今日日期
+
+- 使用说明：[获取今日日期](./Docs/Templater/Get-Today-Date.md)
+- 相关文件：
+    - [/Templater-Scripts/Get-Today-Date.js](./Templater-Scripts/Get-Today-Date.js)<sup>2022-11-25 08:51:47</sup>
+
+### 获取历史上的今天
+
+- 使用说明：[获取历史上的今天](./Docs/Templater/Get-Today-History.md)
+- 相关文件：
+    - [/Templater-Scripts/Get-Today-History.js](./Templater-Scripts/Get-Today-History.js)<sup>2022-11-25 08:51:51</sup>
+
+### 获取天气
+
+- 使用说明：[获取天气](./Docs/Templater/Get-Weather.md)
+- 相关文件：
+    - [/Templater-Scripts/Get-Weather.js](./Templater-Scripts/Get-Weather.js)<sup>2022-11-25 08:51:55</sup>
+
+### 获取年进度
+
+- 使用说明：[获取年进度](./Docs/Templater/Get-Year-Progress.md)
+- 相关文件：
+    - [/Templater-Scripts/Get-Year-Progress.js](./Templater-Scripts/Get-Year-Progress.js)<sup>2022-11-25 08:51:59</sup>
+
+### 对选中行排序
+
+- 使用说明：[对选中行排序](./Docs/Templater/Sort-Tasks-Lines.md)
+- 相关文件：
+    - [/Templater-Scripts/Sort-Tasks-Lines.js](./Templater-Scripts/Sort-Tasks-Lines.js)<sup>2022-11-25 08:52:03</sup>
+
+### 转换为大字符
+
+- 使用说明：[转换为大字符](./Docs/Templater/To-Big-Chars.md)
+- 相关文件：
+    - [/Templater-Scripts/To-Big-Chars.js](./Templater-Scripts/To-Big-Chars.js)<sup>2022-11-24 08:31:30</sup>
 
 ## 计划
 

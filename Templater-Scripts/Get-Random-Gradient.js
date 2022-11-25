@@ -1,3 +1,11 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-11-22 13:18:46
+ * @LastEditTime    : 2022-11-25 08:51:37
+ * @FilePath        : \ob-templates\Templater-Scripts\Get-Random-Gradient.js
+ * @Description     : 
+ * @HomePage        : https://github.com/dmscode/Obsidian-Templates
+ */
 function get_random_color (text) { const gradientArr = [
     { "bgColor": "#EE9CA7, #FFDDE1", "textColor": "#333338" },
     { "bgColor": "#2193B0, #6DD5ED", "textColor": "#111116" },

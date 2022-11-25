@@ -1,3 +1,11 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-11-22 13:18:46
+ * @LastEditTime    : 2022-11-25 08:51:47
+ * @FilePath        : \ob-templates\Templater-Scripts\Get-Today-Date.js
+ * @Description     : 
+ * @HomePage        : https://github.com/dmscode/Obsidian-Templates
+ */
 function get_date () {
   const today = new Date()
   const num = ['日', '一', '二', '三', '四', '五', '六', '七', '八', '九']

@@ -1,3 +1,11 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-11-22 13:18:46
+ * @LastEditTime    : 2022-11-25 08:35:56
+ * @FilePath        : \ob-templates\snippets\Split-Page-Callout.css
+ * @Description     : 笔记内容分栏
+ * @HomePage        : https://github.com/dmscode/Obsidian-Templates
+ */
 .callout[data-callout="split-2"],
 .callout[data-callout="split-3"] {
   --callout-icon: "layout";
@@ -15,4 +23,8 @@
 .callout[data-callout="split-3"] {
   width: calc(33% - 10px);
 }
+.callout[data-callout="split-4"] {
+  width: calc(25% - 10px);
+}
+/* 用来清除浮动 */
 br { clear: both; }
