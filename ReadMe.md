@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.53&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.54&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -155,19 +155,19 @@
 
 ### 获取历史上的今天
 
-- 使用说明：[获取历史上的今天](./Docs/Templater/Get-Today-History.md)（待完善）
+- 使用说明：[获取历史上的今天](./Docs/Templater/Get-Today-History.md)
 - 相关文件：
     - [/Templater-Scripts/Get_Today_History.js](./Templater-Scripts/Get_Today_History.js)<sup>2022-11-26 08:48:21</sup>
 
 ### 获取天气
 
-- 使用说明：[获取天气](./Docs/Templater/Get-Weather.md)（待完善）
+- 使用说明：[获取天气](./Docs/Templater/Get-Weather.md)
 - 相关文件：
     - [/Templater-Scripts/Get_Weather.js](./Templater-Scripts/Get_Weather.js)<sup>2022-11-26 08:48:27</sup>
 
 ### 获取年进度
 
-- 使用说明：[获取年进度](./Docs/Templater/Get-Year-Progress.md)（待完善）
+- 使用说明：[获取年进度](./Docs/Templater/Get-Year-Progress.md)
 - 相关文件：
     - [/Templater-Scripts/Get_Year_Progress.js](./Templater-Scripts/Get_Year_Progress.js)<sup>2022-11-26 08:48:36</sup>
 
@@ -212,9 +212,9 @@
     - [x] 生成渐变背景笔记头图
     - [x] 获取一言
     - [x] 获取今日日期
-    - [ ] 获取历史上的今天
-    - [ ] 获取天气
-    - [ ] 获取年进度
+    - [x] 获取历史上的今天
+    - [x] 获取天气
+    - [x] 获取年进度
     - [ ] 对选中行排序
     - [ ] 转换为大字符
 - [ ] 网页剪切缩略视图改为笔记卡片视图
