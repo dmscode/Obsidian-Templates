@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.50&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.51&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -136,7 +136,7 @@
 
 ### 生成渐变背景笔记头图
 
-- 使用说明：[生成渐变背景笔记头图](./Docs/Templater/Add-Gradient-Header.md)（待完善）
+- 使用说明：[生成渐变背景笔记头图](./Docs/Templater/Add-Gradient-Header.md)
 - 相关文件：
     - [/Templater-Scripts/Get-Random-Gradient.js](./Templater-Scripts/Get-Random-Gradient.js)<sup>2022-11-25 21:18:31</sup>
     - [/Templater/Add-Gradient-Header.md](./Templater/Add-Gradient-Header.md)
@@ -209,7 +209,7 @@
     - [x] 索引标签样式卡片
     - [>] 生成文字卡片
     - [x] 获取随机诗词
-    - [ ] 获取随机背景色
+    - [x] 生成渐变背景笔记头图
     - [ ] 获取一言
     - [ ] 获取今日日期
     - [ ] 获取历史上的今天
