@@ -2,9 +2,7 @@
 
 ## 效果展示
 
-<div style="padding: 1.2em 1em; font-size: 1.8rem; text-align: center; border-radius: 6px; font-weight: 700; background: linear-gradient(105deg, #D1913C, #FFD194); color: #111116;">
-生成渐变背景笔记头图
-</div>
+![](../images/Add-Gradient-Header.png)
 
 ## 相关文件
 
