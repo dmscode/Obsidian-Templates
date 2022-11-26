@@ -1,8 +1,8 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-11-22 13:18:46
- * @LastEditTime    : 2022-11-25 21:20:16
- * @FilePath        : \ob-templates\Templater-Scripts\To-Big-Chars.js
+ * @LastEditTime    : 2022-11-26 08:48:55
+ * @FilePath        : \ob-templates\Templater-Scripts\To_Big_Chars.js
  * @Description     : 转换为大字符
  * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */

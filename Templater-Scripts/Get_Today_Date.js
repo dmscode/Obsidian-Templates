@@ -1,8 +1,8 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-11-22 13:18:46
- * @LastEditTime    : 2022-11-25 21:19:15
- * @FilePath        : \ob-templates\Templater-Scripts\Get-Today-Date.js
+ * @LastEditTime    : 2022-11-26 08:48:12
+ * @FilePath        : \ob-templates\Templater-Scripts\Get_Today_Date.js
  * @Description     : 获取今日日期
  * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */

@@ -1,8 +1,8 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-11-22 13:18:46
- * @LastEditTime    : 2022-11-25 21:18:21
- * @FilePath        : \ob-templates\Templater-Scripts\Get-Poems.js
+ * @LastEditTime    : 2022-11-26 08:47:50
+ * @FilePath        : \ob-templates\Templater-Scripts\Get_Poems.js
  * @Description     : 获取随机诗词
  * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */

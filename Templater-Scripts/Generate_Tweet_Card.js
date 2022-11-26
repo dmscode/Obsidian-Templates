@@ -1,8 +1,8 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-11-02 14:00:26
- * @LastEditTime    : 2022-11-24 09:15:32
- * @FilePath        : \ob-templates\Templater-Scripts\Generate-Tweet-Card.js
+ * @LastEditTime    : 2022-11-26 08:47:44
+ * @FilePath        : \ob-templates\Templater-Scripts\Generate_Tweet_Card.js
  * @Description     : 
  * @HomePage        : https://github.com/dmscode/Obsidian-Templates
  */

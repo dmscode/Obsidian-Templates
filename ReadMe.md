@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.52&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.53&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -126,62 +126,62 @@
 
 - 使用说明：[生成文字卡片](./Docs/Templater/Generate-Tweet-Card.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/Generate_Tweet_Card.js](./Templater-Scripts/Generate_Tweet_Card.js)<sup>2022-11-24 09:15:32</sup>
+    - [/Templater-Scripts/Generate_Tweet_Card.js](./Templater-Scripts/Generate_Tweet_Card.js)<sup>2022-11-26 08:47:44</sup>
 
 ### 获取随机诗词
 
 - 使用说明：[获取随机诗词](./Docs/Templater/Get-Poems.md)
 - 相关文件：
-    - [/Templater-Scripts/Get_Poems.js](./Templater-Scripts/Get_Poems.js)<sup>2022-11-25 21:18:21</sup>
+    - [/Templater-Scripts/Get_Poems.js](./Templater-Scripts/Get_Poems.js)<sup>2022-11-26 08:47:50</sup>
 
 ### 生成渐变背景笔记头图
 
 - 使用说明：[生成渐变背景笔记头图](./Docs/Templater/Add-Gradient-Header.md)
 - 相关文件：
-    - [/Templater-Scripts/Get_Random_Gradient.js](./Templater-Scripts/Get_Random_Gradient.js)<sup>2022-11-25 21:18:31</sup>
+    - [/Templater-Scripts/Get_Random_Gradient.js](./Templater-Scripts/Get_Random_Gradient.js)<sup>2022-11-26 08:47:58</sup>
     - [/Templater/Add-Gradient-Header.md](./Templater/Add-Gradient-Header.md)
 
 ### 获取一言
 
 - 使用说明：[获取一言](./Docs/Templater/Get-Sentence.md)
 - 相关文件：
-    - [/Templater-Scripts/Get_Sentence.js](./Templater-Scripts/Get_Sentence.js)<sup>2022-11-25 21:18:45</sup>
+    - [/Templater-Scripts/Get_Sentence.js](./Templater-Scripts/Get_Sentence.js)<sup>2022-11-26 08:48:05</sup>
 
 ### 获取今日日期
 
-- 使用说明：[获取今日日期](./Docs/Templater/Get-Today-Date.md)（待完善）
+- 使用说明：[获取今日日期](./Docs/Templater/Get-Today-Date.md)
 - 相关文件：
-    - [/Templater-Scripts/Get_Today_Date.js](./Templater-Scripts/Get_Today_Date.js)<sup>2022-11-25 21:19:15</sup>
+    - [/Templater-Scripts/Get_Today_Date.js](./Templater-Scripts/Get_Today_Date.js)<sup>2022-11-26 08:48:12</sup>
 
 ### 获取历史上的今天
 
 - 使用说明：[获取历史上的今天](./Docs/Templater/Get-Today-History.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/Get_Today_History.js](./Templater-Scripts/Get_Today_History.js)<sup>2022-11-25 08:51:51</sup>
+    - [/Templater-Scripts/Get_Today_History.js](./Templater-Scripts/Get_Today_History.js)<sup>2022-11-26 08:48:21</sup>
 
 ### 获取天气
 
 - 使用说明：[获取天气](./Docs/Templater/Get-Weather.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/Get_Weather.js](./Templater-Scripts/Get_Weather.js)<sup>2022-11-25 21:19:35</sup>
+    - [/Templater-Scripts/Get_Weather.js](./Templater-Scripts/Get_Weather.js)<sup>2022-11-26 08:48:27</sup>
 
 ### 获取年进度
 
 - 使用说明：[获取年进度](./Docs/Templater/Get-Year-Progress.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/Get_Year_Progress.js](./Templater-Scripts/Get_Year_Progress.js)<sup>2022-11-25 21:19:46</sup>
+    - [/Templater-Scripts/Get_Year_Progress.js](./Templater-Scripts/Get_Year_Progress.js)<sup>2022-11-26 08:48:36</sup>
 
 ### 对选中行排序
 
 - 使用说明：[对选中行排序](./Docs/Templater/Sort-Tasks-Lines.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/Sort_Tasks_Lines.js](./Templater-Scripts/Sort_Tasks_Lines.js)<sup>2022-11-25 21:19:58</sup>
+    - [/Templater-Scripts/Sort_Tasks_Lines.js](./Templater-Scripts/Sort_Tasks_Lines.js)<sup>2022-11-26 08:48:47</sup>
 
 ### 转换为大字符
 
 - 使用说明：[转换为大字符](./Docs/Templater/To-Big-Chars.md)（待完善）
 - 相关文件：
-    - [/Templater-Scripts/To_Big_Chars.js](./Templater-Scripts/To_Big_Chars.js)<sup>2022-11-25 21:20:16</sup>
+    - [/Templater-Scripts/To_Big_Chars.js](./Templater-Scripts/To_Big_Chars.js)<sup>2022-11-26 08:48:55</sup>
 
 
 
@@ -211,7 +211,7 @@
     - [x] 获取随机诗词
     - [x] 生成渐变背景笔记头图
     - [x] 获取一言
-    - [ ] 获取今日日期
+    - [x] 获取今日日期
     - [ ] 获取历史上的今天
     - [ ] 获取天气
     - [ ] 获取年进度
