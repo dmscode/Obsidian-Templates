@@ -10,7 +10,7 @@
 
 ## 相关文件
 
-[/Templater-Scripts/Get-Poems.js](../../Templater-Scripts/Get-Poems.js)
+[/Templater-Scripts/Get_Poems.js](../../Templater-Scripts/Get_Poems.js)
 
 ## 使用方法
 
@@ -23,7 +23,7 @@
 在 Templater 的模板文件夹下新建文件，放入如下内容（无需代码块）：
 
 ```eta
-<% tp.user.get_poems() %>
+<% tp.user.Get_Poems() %>
 ```
 
 ### 笔记中动态调用

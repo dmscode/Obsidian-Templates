@@ -6,7 +6,7 @@
 
 ## 相关文件
 
-- [/Templater-Scripts/Get-Random-Gradient.js](../../Templater-Scripts/Get-Random-Gradient.js)
+- [/Templater-Scripts/Get_Random_Gradient.js](../../Templater-Scripts/Get_Random_Gradient.js)
 - [/Templater/Add-Gradient-Header.md](../../Templater/Add-Gradient-Header.md)
 
 ## 使用方法

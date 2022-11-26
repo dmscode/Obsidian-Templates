@@ -6,7 +6,7 @@
 
 ## 相关文件
 
-[/Templater-Scripts/Get-Sentence.js](../../Templater-Scripts/Get-Sentence.js)
+[/Templater-Scripts/Get_Sentence.js](../../Templater-Scripts/Get_Sentence.js)
 
 ## 使用方法
 
@@ -19,7 +19,7 @@
 在 Templater 的模板文件夹下新建文件，放入如下内容（无需代码块）：
 
 ```eta
-<% tp.user.get_sentence(tp) %>
+<% tp.user.Get_Sentence(tp) %>
 ```
 
 使用时会弹出选择框，选择要插入的类型。默认类型为“一言”。
@@ -29,7 +29,7 @@
 在笔记中直接输入如下内容（无需代码块）：
 
 ```eta
-<%+ tp.user.get_sentence(tp, "诗词") %>
+<%+ tp.user.Get_Sentence(tp, "诗词") %>
 ```
 
 后面双引号为指定的输出类型，可选："毒鸡汤"、"社会语录"、"舔狗日记"、"一言"、"诗词"。注意代码中双引号为英文标点。
