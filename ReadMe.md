@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.58&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.59&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -67,7 +67,7 @@
 
 ### 书签缩略图列表
 
-- 使用说明：[书签缩略图列表](./Docs/Dataview/Bookmarks.md)（待完善）
+- 使用说明：[书签缩略图列表](./Docs/Dataview/Bookmarks.md)（涉及内容较多，暂缓整理）
 - 相关文件：
     - [/Dataview/Bookmarks/view.css](./Dataview/Bookmarks/view.css)<sup>2022-11-23 10:11:20</sup>
     - [/Dataview/Bookmarks/view.js](./Dataview/Bookmarks/view.js)<sup>2022-10-26 13:26:55</sup>
@@ -198,9 +198,7 @@
 
 ### Next
 
-- [x] 笔记热力图（Heatmap）
-- [ ] 生成文字卡片
-- [ ] 书签缩略图列表
+- [>] 书签缩略图列表
 - [ ] 网页剪切缩略视图改为笔记卡片视图
 
 ### Plan
