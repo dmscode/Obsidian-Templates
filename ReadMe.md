@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.57&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.58&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -124,7 +124,7 @@
 
 ### 生成文字卡片
 
-- 使用说明：[生成文字卡片](./Docs/Templater/Generate-Tweet-Card.md)（待完善）
+- 使用说明：[生成文字卡片](./Docs/Templater/Generate-Tweet-Card.md)
 - 相关文件：
     - [/Templater-Scripts/Generate_Tweet_Card.js](./Templater-Scripts/Generate_Tweet_Card.js)<sup>2022-11-26 08:47:44</sup>
 

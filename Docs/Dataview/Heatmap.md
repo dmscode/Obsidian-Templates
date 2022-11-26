@@ -2,7 +2,7 @@
 
 ## 效果展示
 
-![](../images/Heatmap.png)
+![Heatmap](../images/Heatmap.png)
 
 ## 相关文件
 
