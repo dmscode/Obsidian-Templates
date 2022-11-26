@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.54&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.55&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -179,11 +179,12 @@
 
 ### 转换为大字符
 
-- 使用说明：[转换为大字符](./Docs/Templater/To-Big-Chars.md)（待完善）
+- 使用说明：[转换为大字符](./Docs/Templater/To-Big-Chars.md)
 - 相关文件：
     - [/Templater-Scripts/To_Big_Chars.js](./Templater-Scripts/To_Big_Chars.js)<sup>2022-11-26 08:48:55</sup>
-
-
+    - [/Templater/Add-Big-Chars.md](./Templater/Add-Big-Chars.md)
+    - [/Templater/Add-Big-Chars-Date.md](./Templater/Add-Big-Chars-Date.md)
+    - [/Templater/Add-Big-Chars-Time.md](./Templater/Add-Big-Chars-Time.md)
 
 ## 技巧分享
 
@@ -216,7 +217,7 @@
     - [x] 获取天气
     - [x] 获取年进度
     - [ ] 对选中行排序
-    - [ ] 转换为大字符
+    - [x] 转换为大字符
 - [ ] 网页剪切缩略视图改为笔记卡片视图
 - [x] 用 Dataview 动态插入样式的方法
 - [x] 笔记分栏归入 CSS Snippets
