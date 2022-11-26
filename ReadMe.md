@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.47&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.49&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -37,7 +37,7 @@
     - [索引标签样式卡片](#%E7%B4%A2%E5%BC%95%E6%A0%87%E7%AD%BE%E6%A0%B7%E5%BC%8F%E5%8D%A1%E7%89%87)
     - [生成文字卡片](#%E7%94%9F%E6%88%90%E6%96%87%E5%AD%97%E5%8D%A1%E7%89%87)
     - [获取随机诗词](#%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E8%AF%97%E8%AF%8D)
-    - [获取随机背景色](#%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E8%83%8C%E6%99%AF%E8%89%B2)
+    - [生成渐变背景笔记头图](#%E7%94%9F%E6%88%90%E6%B8%90%E5%8F%98%E8%83%8C%E6%99%AF%E7%AC%94%E8%AE%B0%E5%A4%B4%E5%9B%BE)
     - [获取一言](#%E8%8E%B7%E5%8F%96%E4%B8%80%E8%A8%80)
     - [获取今日日期](#%E8%8E%B7%E5%8F%96%E4%BB%8A%E6%97%A5%E6%97%A5%E6%9C%9F)
     - [获取历史上的今天](#%E8%8E%B7%E5%8F%96%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9)
@@ -130,15 +130,16 @@
 
 ### 获取随机诗词
 
-- 使用说明：[获取随机诗词](./Docs/Templater/Get-Poems.md)（待完善）
+- 使用说明：[获取随机诗词](./Docs/Templater/Get-Poems.md)
 - 相关文件：
     - [/Templater-Scripts/Get-Poems.js](./Templater-Scripts/Get-Poems.js)<sup>2022-11-25 21:18:21</sup>
 
-### 获取随机背景色
+### 生成渐变背景笔记头图
 
-- 使用说明：[获取随机背景色](./Docs/Templater/Get-Random-Gradient.md)（待完善）
+- 使用说明：[生成渐变背景笔记头图](./Docs/Templater/Add-Gradient-Header.md)（待完善）
 - 相关文件：
     - [/Templater-Scripts/Get-Random-Gradient.js](./Templater-Scripts/Get-Random-Gradient.js)<sup>2022-11-25 21:18:31</sup>
+    - [/Templater/Add-Gradient-Header.md](./Templater/Add-Gradient-Header.md)
 
 ### 获取一言
 
@@ -207,7 +208,7 @@
     - [x] 禁止通行分割条
     - [x] 索引标签样式卡片
     - [>] 生成文字卡片
-    - [ ] 获取随机诗词
+    - [x] 获取随机诗词
     - [ ] 获取随机背景色
     - [ ] 获取一言
     - [ ] 获取今日日期
