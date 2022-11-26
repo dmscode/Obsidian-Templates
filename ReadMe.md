@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.56&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.57&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -81,7 +81,7 @@
 
 ### 笔记热力图（Heatmap）
 
-- 使用说明：[笔记热力图（Heatmap）](./Docs/Dataview/Heatmap.md)（待完善）
+- 使用说明：[笔记热力图（Heatmap）](./Docs/Dataview/Heatmap.md)
 - 相关文件：
     - [/Dataview/Heatmap/view.js](./Dataview/Heatmap/view.js)<sup>2022-11-23 15:57:29</sup>
 
@@ -173,7 +173,7 @@
 
 ### 对选中行排序
 
-- 使用说明：[对选中行排序](./Docs/Templater/Sort-Tasks-Lines.md)（待完善）
+- 使用说明：[对选中行排序](./Docs/Templater/Sort-Tasks-Lines.md)
 - 相关文件：
     - [/Templater-Scripts/Sort_Tasks_Lines.js](./Templater-Scripts/Sort_Tasks_Lines.js)<sup>2022-11-26 08:48:47</sup>
 
@@ -198,30 +198,9 @@
 
 ### Next
 
-- [ ] 书写各个功能的对应文档
-    - [>] 书签缩略图列表
-    - [x] 一日时间段标注
-    - [>] 笔记热力图（Heatmap）
-    - [x] 任务完成度
-    - [x] 自动打开入口笔记
-    - [x] 侧边栏图标排序
-    - [x] 笔记内容分栏
-    - [x] 禁止通行分割条
-    - [x] 索引标签样式卡片
-    - [>] 生成文字卡片
-    - [x] 获取随机诗词
-    - [x] 生成渐变背景笔记头图
-    - [x] 获取一言
-    - [x] 获取今日日期
-    - [x] 获取历史上的今天
-    - [x] 获取天气
-    - [x] 获取年进度
-    - [ ] 对选中行排序
-    - [x] 转换为大字符
+- [x] 笔记热力图（Heatmap）
+- [ ] 生成文字卡片
+- [ ] 书签缩略图列表
 - [ ] 网页剪切缩略视图改为笔记卡片视图
-- [x] 用 Dataview 动态插入样式的方法
-- [x] 笔记分栏归入 CSS Snippets
-- [x] 拆分 CSS Snippets
-- [x] 相对规律的命名方式（首字母大写搭配短划线，这样容易读）
 
 ### Plan
