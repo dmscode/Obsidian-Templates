@@ -1,0 +1,29 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-11-29 07:52:58
+ * @LastEditTime    : 2022-11-29 08:12:40
+ * @FilePath        : \ob-templates\Docs\Snippets\Bullet-Journal.css
+ * @Description     : 子弹笔记样式
+ */
+
+/* 清除任务项选择框原有样式 */
+input[data-task=">"]:checked,
+li[data-task=">"] > input:checked,
+li[data-task=">"] > p > input:checked {
+  --checkbox-marker-color: transparent;
+  border: none;
+  border-radius: 0;
+  background-image: none;
+  background-color: currentColor;
+  -webkit-mask-size: var(--checkbox-icon);
+  -webkit-mask-position: 50% 50%;
+}
+/* 为任务项选择框指定全新样式 */
+input[data-task=">"]:checked,
+li[data-task=">"] > input:checked,
+li[data-task=">"] > p > input:checked {
+  color: var(--text-faint);
+  transform: rotate(90deg);
+  -webkit-mask-position: 50% 100%;
+  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' class='h-5 w-5' viewBox='0 0 20 20' fill='currentColor'%3E%3Cpath d='M10.894 2.553a1 1 0 00-1.788 0l-7 14a1 1 0 001.169 1.409l5-1.429A1 1 0 009 15.571V11a1 1 0 112 0v4.571a1 1 0 00.725.962l5 1.428a1 1 0 001.17-1.408l-7-14z' /%3E%3C/svg%3E");
+}
