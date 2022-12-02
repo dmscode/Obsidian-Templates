@@ -1,15 +1,15 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-12-02 14:24:57
- * @LastEditTime    : 2022-12-02 14:25:03
+ * @LastEditTime    : 2022-12-02 14:57:50
  * @FilePath        : \ob-templates\snippets\Strong-Strong.css
  * @Description     : 让加粗显著加粗
  */
-strong, .cm-strong {
+ strong, .cm-strong {
   font-weight: normal;
-  text-shadow: .5px 0 0 rgba(0, 0, 0, .5),
-                0 .5px 0 rgba(0, 0, 0, .5),
-                -0.5px 0 0 rgba(0, 0, 0, .5),
-                0 -0.5px 0 rgba(0, 0, 0, .5),
-                0 0 1px rgba(0, 0, 0, .5);
+  text-shadow: .5px .5px 0 rgba(0, 0, 0, .3),
+                -0.5px .5px 0 rgba(0, 0, 0, .3),
+                0.5px -0.5px 0 rgba(0, 0, 0, .3),
+                -0.5px -0.5px 0 rgba(0, 0, 0, .3),
+                0 0 .5px rgba(0, 0, 0, .5);
 }

@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.64&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.65&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -128,7 +128,7 @@
 
 - 使用说明：[让加粗显著加粗](./Docs/Snippets/Strong-Strong.md)
 - 相关文件：
-    - [/snippets/Strong-Strong.css](./snippets/Strong-Strong.css)<sup>2022-12-02 14:25:03</sup>
+    - [/snippets/Strong-Strong.css](./snippets/Strong-Strong.css)<sup>2022-12-02 14:57:50</sup>
 
 ### 生成文字卡片
 
