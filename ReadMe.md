@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.61&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.62&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -35,6 +35,7 @@
     - [笔记内容分栏](#%E7%AC%94%E8%AE%B0%E5%86%85%E5%AE%B9%E5%88%86%E6%A0%8F)
     - [禁止通行分割条](#%E7%A6%81%E6%AD%A2%E9%80%9A%E8%A1%8C%E5%88%86%E5%89%B2%E6%9D%A1)
     - [索引标签样式卡片](#%E7%B4%A2%E5%BC%95%E6%A0%87%E7%AD%BE%E6%A0%B7%E5%BC%8F%E5%8D%A1%E7%89%87)
+    - [让加粗显著加粗](#%E8%AE%A9%E5%8A%A0%E7%B2%97%E6%98%BE%E8%91%97%E5%8A%A0%E7%B2%97)
     - [生成文字卡片](#%E7%94%9F%E6%88%90%E6%96%87%E5%AD%97%E5%8D%A1%E7%89%87)
     - [获取随机诗词](#%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E8%AF%97%E8%AF%8D)
     - [生成渐变背景笔记头图](#%E7%94%9F%E6%88%90%E6%B8%90%E5%8F%98%E8%83%8C%E6%99%AF%E7%AC%94%E8%AE%B0%E5%A4%B4%E5%9B%BE)
@@ -122,6 +123,12 @@
 - 使用说明：[索引标签样式卡片](./Docs/Snippets/Paper-Index-Callout.md)
 - 相关文件：
     - [/snippets/Paper-Index-Callout.css](./snippets/Paper-Index-Callout.css)<sup>2022-11-23 20:37:59</sup>
+
+### 让加粗显著加粗
+
+- 使用说明：[让加粗显著加粗](./Docs/Snippets/Strong-Strong.md)
+- 相关文件：
+    - [/snippets/Strong-Strong.css](./snippets/Strong-Strong.css)<sup>2022-12-02 14:25:03</sup>
 
 ### 生成文字卡片
 
