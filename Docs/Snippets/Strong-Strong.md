@@ -10,6 +10,6 @@
 
 ## 使用方法
 
-首先请阅读：[Callout 样式的使用方法](../Usages/How-to-Use-Callout.md)。
+首先请阅读：[CSS Snippets 的安装方法](../Usages/Install-CSS-Snippets.md)。
 
 然后，然后就没然后了
