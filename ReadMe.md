@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.65&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.66&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -30,6 +30,7 @@
     - [一日时间段标注](#%E4%B8%80%E6%97%A5%E6%97%B6%E9%97%B4%E6%AE%B5%E6%A0%87%E6%B3%A8)
     - [笔记热力图（Heatmap）](#%E7%AC%94%E8%AE%B0%E7%83%AD%E5%8A%9B%E5%9B%BEHeatmap)
     - [任务完成度](#%E4%BB%BB%E5%8A%A1%E5%AE%8C%E6%88%90%E5%BA%A6)
+    - [习惯打卡](#%E4%B9%A0%E6%83%AF%E6%89%93%E5%8D%A1)
     - [自动打开入口笔记](#%E8%87%AA%E5%8A%A8%E6%89%93%E5%BC%80%E5%85%A5%E5%8F%A3%E7%AC%94%E8%AE%B0)
     - [侧边栏图标排序](#%E4%BE%A7%E8%BE%B9%E6%A0%8F%E5%9B%BE%E6%A0%87%E6%8E%92%E5%BA%8F)
     - [笔记内容分栏](#%E7%AC%94%E8%AE%B0%E5%86%85%E5%AE%B9%E5%88%86%E6%A0%8F)
@@ -93,6 +94,13 @@
 - 相关文件：
     - [/Dataview/Task-Progress/view.css](./Dataview/Task-Progress/view.css)<sup>2022-11-23 16:00:20</sup>
     - [/Dataview/Task-Progress/view.js](./Dataview/Task-Progress/view.js)<sup>2022-11-23 16:00:29</sup>
+
+### 习惯打卡
+
+- 使用说明：[习惯打卡](./Docs/Dataview/Habits.md)
+- 相关文件：
+    - [/Dataview/Habits/view.css](./Dataview/Habits/view.css)<sup>{{/Dataview/Habits/view.css}}</sup>
+    - [/Dataview/Habits/view.js](./Dataview/Habits/view.js)<sup>2022-12-12 09:45:14</sup>
 
 ### 自动打开入口笔记
 
