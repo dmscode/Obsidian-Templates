@@ -1,0 +1,14 @@
+.dms-habit-container {
+
+}
+.dms-habit-container.no-count > div > table > thead > tr > th:first-child > span.dataview.small-text {
+  display: none;
+}
+.dms-habit-container > div > table > thead > tr,
+.dms-habit-container > div > table > tbody > tr:nth-child(2n) {
+  background-color: rgba(128, 128, 128, .05);
+}
+.dms-habit-container > div > table > tbody > tr > td:hover {
+  cursor: default;
+  background-color: rgba(233, 233, 64, .3);
+}
