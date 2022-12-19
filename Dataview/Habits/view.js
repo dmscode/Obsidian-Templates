@@ -1,7 +1,7 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-12-06 17:00:10
- * @LastEditTime    : 2022-12-12 09:45:14
+ * @LastEditTime    : 2022-12-19 17:14:53
  * @FilePath        : \ob-templates\Dataview\Habits\view.js
  * @Description     : 
  */
@@ -13,12 +13,15 @@ const defaultOpt = {
   year: dv.func.dateformat(dv.date('now'), 'yyyy'),
   month: dv.func.dateformat(dv.date('now'), 'MM'),
   day: dv.func.dateformat(dv.date('now'), 'dd'),
-  mark: 'Mark', // 数据前缀
+  status: 'b', // 状态标记
   // headers: ['吃饭', '睡觉', '打豆豆'],
   show: 'yesorno', // content|yesorno,
   dateHeader: 'Date',  // 日期字段名称
   yesorno: ['✔️', '❌', '❔']  // yesorno 模式下三种标记符号
 }
+
+/** @type {object} 最终配置 */
+const opt = Object.assign({}, defaultOpt, input ? input : {})
 
 /** @type {object} 不同模式的笔记过滤器 */
 const modeFilters = {
@@ -40,8 +43,6 @@ const dataFilters = {
     return opt.yesorno[0]
   },
 }
-/** @type {object} 最终配置 */
-const opt = Object.assign({}, defaultOpt, input ? input : {})
 
 /** @type {array} 获取所有符合条件的笔记 */
 const pages = dv.pages(`"${opt.dir}"`).filter(modeFilters[opt.mode])
@@ -53,12 +54,11 @@ pages.forEach(p=>{
   habits[p.file.name] = {}
   habits[p.file.name][opt.dateHeader] = `[${p.file.name}](${p.file.path})`
   
-  const pMark = p[opt.mark]
-  if(typeof(pMark)==='undefined') return
-  const markSrc = typeof(pMark)==='string' ? [pMark] : pMark
-  markSrc.forEach(m=>{
-    const mArr = m.trim().split(/\s+/)
-    habits[p.file.name][mArr[0]] = mArr[1]
+  if(!p.file.tasks?.length) return
+  p.file.tasks.forEach(t=>{
+    if(t.status !== opt.status) return
+    const tArr = t.text.trim().split(/\s+/)
+    habits[p.file.name][tArr[0]] = tArr[1]
   })
 })
 
@@ -70,7 +70,9 @@ let headers = opt.headers ? opt.headers : Object.keys(allHabits)
 
 /** @type {array} 用以输出的数据 */
 const data = []
-Object.values(habits).forEach(h=>{
+
+Object.entries(habits).sort((a, b)=>b[0].localeCompare(a[0])).forEach(habit=>{
+  const h = habit[1]
   data.push(headers.map(header=>{
     const handler = opt.show
     if(typeof(handler)==='function'){

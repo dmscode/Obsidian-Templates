@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.68&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.69&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -100,7 +100,7 @@
 - 使用说明：[习惯打卡](./Docs/Dataview/Habits.md)
 - 相关文件：
     - [/Dataview/Habits/view.css](./Dataview/Habits/view.css)<sup>{{/Dataview/Habits/view.css}}</sup>
-    - [/Dataview/Habits/view.js](./Dataview/Habits/view.js)<sup>2022-12-12 09:45:14</sup>
+    - [/Dataview/Habits/view.js](./Dataview/Habits/view.js)<sup>2022-12-19 17:14:53</sup>
 
 ### 自动打开入口笔记
 
