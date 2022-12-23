@@ -1,0 +1,122 @@
+.dms-month-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.dms-month-table {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  flex-grow: 0;
+  flex-shrink: 0;
+  line-height: 1.2em;
+}
+.dms-month-table > .dms-month-header > .dms-month-caption {
+  font-size: 1.6em;
+  line-height: 2.2em;
+  text-align: center;
+}
+.dms-month-tbody {
+  display: flex;
+  flex-direction: column;
+}
+.dms-month-table .dms-month-tr {
+  display: flex;
+  flex-grow: 1;
+}
+.dms-month-table .dms-month-th,
+.dms-month-table .dms-month-td {
+  width: 14.23%;
+  text-align: center;
+}
+.dms-month-table .dms-month-th {
+  font-size: .8em;
+}
+.dms-month-table a.dms-month-td {
+  position: relative;
+  color: var(--normal-text);
+  text-decoration: none;
+  padding: .5em .1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.dms-month-table .dms-month-th:first-child,
+.dms-month-table .dms-month-td:first-child {
+  color: rgb(233, 72, 120);
+}
+.dms-month-table .dms-month-th:last-child,
+.dms-month-table .dms-month-td:last-child {
+  color: #3388cc;
+}
+.dms-month-table .dms-month-td.dms-other-month-day > * {
+  opacity: .3;
+}
+.dms-month-table .dms-month-td.dms-other-month-day > .dms-day-info  {
+  opacity: 1;
+}
+.dms-month-table .dms-month-td.dms-today > .dms-day,
+.dms-month-table .dms-month-td.dms-today > .dms-day-lunar {
+  position: relative;
+  z-index: 10;
+}
+.dms-month-table .dms-month-td.dms-today > .dms-day {
+  color: #FCFCFC;
+}
+.dms-month-table .dms-month-td.dms-today > .dms-day::before {
+  content: " ";
+  position: absolute;
+  width: 1.6em;
+  height: 1.6em;
+  border-radius: 2em;
+  left: 50%;
+  top: 50%;
+  z-index: -1;
+  transform: translate(-50%, -50%);
+  background-color: rgba(233, 72, 120, .4);
+}
+.dms-month-table .dms-month-td > .dms-day-lunar {
+  font-size: .6em;
+}
+.dms-month-table .dms-month-td > .dms-day-mark-line {
+  margin: .1em 0;
+  width: .8em;
+  height: 3px;
+  border-radius: 3px;
+}
+.dms-month-table .dms-month-td > .dms-day-mark-sign {
+  text-align: center;
+  font-size: .5em;
+  opacity: .6;
+}
+.dms-month-table .dms-month-td > .dms-day-has-note {
+  background-color: rgba(51, 136, 204, .6);
+}
+.dms-month-table .dms-month-td > .dms-day-info {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  background-color: rgb(15, 40, 61);
+  border-radius: 3px;
+  box-shadow: 0 2px 12px rgba(128, 128,128, .3);
+  display: none;
+  font-size: .6em;
+  line-height: 1.4em;
+  color: #C3C3C3;
+}
+.dms-month-table .dms-month-td:hover > .dms-day-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.dms-month-table .dms-month-td > .dms-day-info > * {
+  width: 100%;
+}
+.dms-month-table .dms-month-td > .dms-day-info > .dms-day-full-lunar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: .5em;
+}
