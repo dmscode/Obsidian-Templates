@@ -1,6 +1,6 @@
 {
   "name": "ob-templates",
-  "version": "0.0.69",
+  "version": "0.0.70",
   "main": "index.js",
   "repository": "git@github.com:dmscode/Obsidian-Templates.git",
   "author": "dmscode <i@zji.me>",
@@ -8,6 +8,7 @@
   "private": true,
   "scripts": {
     "build": "yarn version --patch && node ./build/build.js",
-    "deploy": "git add * && git commit -m \"Common update commit.\" && git push"
+    "deploy": "git add * && git commit -m \"Common update commit.\" && git push",
+    "go": "yarn build && yarn deploy"
   }
 }
