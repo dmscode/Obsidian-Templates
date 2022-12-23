@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.70&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.71&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -107,7 +107,7 @@
 
 - 使用说明：[月历视图](./Docs/Dataview/Month-View.md)
 - 相关文件：
-    - [/Dataview/Month-View/view.css](./Dataview/Month-View/view.css)<sup>{{/Dataview/Month-View/view.css}}</sup>
+    - [/Dataview/Month-View/view.css](./Dataview/Month-View/view.css)<sup>2022-12-23 10:26:44</sup>
     - [/Dataview/Month-View/view.js](./Dataview/Month-View/view.js)<sup>2022-12-22 16:02:58</sup>
 
 ### 自动打开入口笔记
