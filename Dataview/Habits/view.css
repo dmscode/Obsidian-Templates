@@ -1,6 +1,10 @@
-.dms-habit-container {
-
-}
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-12-06 17:00:10
+ * @LastEditTime    : 2022-12-19 17:14:53
+ * @FilePath        : \ob-templates\Dataview\Habits\view.css
+ * @Description     : 
+ */
 .dms-habit-container.no-count > div > table > thead > tr > th:first-child > span.dataview.small-text {
   display: none;
 }

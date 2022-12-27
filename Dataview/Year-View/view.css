@@ -1,0 +1,94 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-12-25 17:20:13
+ * @LastEditTime    : 2022-12-26 15:24:52
+ * @FilePath        : \Obsidian\Templates\Dataview\Year-View\view.css
+ * @Description     : 
+ */
+
+.dms-year-caption {
+  text-align: center;
+  font-size: 1.8em;
+  font-weight: 700;
+  line-height: 2.4;
+}
+
+.dms-year-months {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.dms-year-month-box {
+  padding: .5em;
+  flex-grow: 1;
+}
+.dms-year-month-box > .dms-year-month-name {
+  text-align: center;
+  font-weight: 200;
+}
+.dms-year-month-box > .dms-year-month-week-name {
+  border-bottom: 3px solid rgba(128, 128, 128, .3);
+}
+.dms-year-month-box > .dms-year-month-week-name,
+.dms-year-month-box > .dms-year-month-tr {
+  display: flex;
+  flex-wrap: nowrap;
+  font-size: .5em;
+}
+.dms-year-month-box > .dms-year-month-tr:nth-child(3) {
+  justify-content: flex-end;
+}
+.dms-year-month-box > .dms-year-month-tr:last-child {
+  justify-content: flex-start;
+}
+
+.dms-year-month-box .dms-year-month-th,
+.dms-year-month-box .dms-year-month-day {
+  width: 14.23%;
+  box-sizing: border-box;
+  padding: .5em .3em;
+  text-align: center;
+  color: var(--normal-text);
+  line-height: 1em;
+  white-space: nowrap;
+}
+.dms-year-month-box a.dms-year-month-day {
+  text-decoration: none;
+  position: relative;
+  display: block;
+  z-index: 10;
+  aspect-ratio: 1 / 1;
+}
+.dms-year-month-box a.dms-year-month-day:hover {
+  text-decoration: none;
+}
+.dms-year-month-box a.dms-year-month-day.dms-year-today {
+  color: #FCFCFC;
+}
+.dms-year-month-box a.dms-year-month-day.dms-year-today::before {
+  content: " ";
+  position: absolute;
+  width: 1.6em;
+  height: 1.6em;
+  border-radius: 2em;
+  left: 50%;
+  top: 50%;
+  z-index: -1;
+  transform: translate(-50%, -50%);
+  background-color: rgba(233, 72, 120, .4);
+}
+.dms-year-month-box a.dms-year-month-day > .dms-year-day-mark {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  width: 1em;
+  height: 2px;
+  border-radius: 2px;
+  transform: translate(-50%, 0);
+}
+.dms-year-month-box .dms-year-month-weekday-0 {
+  color: rgb(233, 72, 120);
+}
+.dms-year-month-box .dms-year-month-weekday-6 {
+  color: rgb(51, 135, 204);
+}

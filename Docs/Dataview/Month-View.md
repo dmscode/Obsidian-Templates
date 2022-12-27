@@ -6,8 +6,8 @@
 
 ## 相关文件
 
-- [/Dataview/Month-View/view.css](../../Dataview/Month-View-1/view.css)
-- [/Dataview/Month-View/view.js](../../Dataview/Month-View-1/view.js)
+- [/Dataview/Month-View/view.css](../../Dataview/Month-View/view.css)
+- [/Dataview/Month-View/view.js](../../Dataview/Month-View/view.js)
 
 # 细节说明
 

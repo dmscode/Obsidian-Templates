@@ -1,8 +1,8 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-12-15 09:30:15
- * @LastEditTime    : 2022-12-22 16:02:58
- * @FilePath        : \Obsidian\Templates\Dataview\Month-View\view.js
+ * @LastEditTime    : 2022-12-27 09:20:05
+ * @FilePath        : \ob-templates\Dataview\Month-View\view.js
  * @Description     : 
  */
 /* ======== 参数定义 ======== */
@@ -239,7 +239,6 @@ const initMonth = ()=>{
   const diaries = {}
   const notesDir = opt.dir.replace(/\{\{YYYY\}\}/g, opt.year).replace(/\{\{MM\}\}/g, dbNum(opt.month))
   dv.pages(`"${notesDir}"`).filter(p=>/^\d{4}-\d{2}-\d{2}$/.test(p.file.name)).forEach(p=>diaries[p.file.name] = p)
-  console.log(notesDir);
   /** @type {Date} 月份第一天 */
   const monthFirstDay = new Date(opt.year, opt.month-1)
   /** @type {Date} 日历第一天 */
