@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.73&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.74&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -123,7 +123,7 @@
 
 - 使用说明：[笔记分布视图](./Docs/Dataview/Notes-Count-View.md)
 - 相关文件：
-    - [/Dataview/Notes-Count-View/view.css](./Dataview/Notes-Count-View/view.css)<sup>2022-12-28 15:37:14</sup>
+    - [/Dataview/Notes-Count-View/view.css](./Dataview/Notes-Count-View/view.css)<sup>2022-12-28 15:58:49</sup>
     - [/Dataview/Notes-Count-View/view.js](./Dataview/Notes-Count-View/view.js)<sup>2022-12-28 15:29:21</sup>
 
 ### 自动打开入口笔记

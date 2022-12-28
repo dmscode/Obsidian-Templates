@@ -1,17 +1,17 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-12-28 10:19:04
- * @LastEditTime    : 2022-12-28 15:37:14
- * @FilePath        : \Obsidian\Templates\Dataview\Notes-Count-View\view.css
+ * @LastEditTime    : 2022-12-28 15:58:49
+ * @FilePath        : \ob-templates\Dataview\Notes-Count-View\view.css
  * @Description     : 
  */
- .markdown-source-view.mod-cm6.is-readable-line-width .cm-embed-block>div,
- .markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+/* .markdown-source-view.mod-cm6.is-readable-line-width .cm-embed-block>div,
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
   width: 100%;
   max-width: none;
   margin-left: 0 !important;
   margin-right: 0 !important;
- }
+} */
 .dms-notes-dir-box {
   gap: 2px;
   position: relative;
