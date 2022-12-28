@@ -1,0 +1,46 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-12-28 10:19:04
+ * @LastEditTime    : 2022-12-28 15:37:14
+ * @FilePath        : \Obsidian\Templates\Dataview\Notes-Count-View\view.css
+ * @Description     : 
+ */
+ .markdown-source-view.mod-cm6.is-readable-line-width .cm-embed-block>div,
+ .markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  width: 100%;
+  max-width: none;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+ }
+.dms-notes-dir-box {
+  gap: 2px;
+  position: relative;
+  display: flex;
+  cursor: pointer;
+  height: 16px;
+}
+.dms-notes-dir-box:hover {
+  box-shadow: 0 0 3px rgba(0, 30, 120, 1);
+}
+.dms-notes-dir-box > .dms-notes-dir-box {
+  top: 18px;
+}
+/* .dms-notes-dir-box::before,
+.dms-notes-dir-box::after {
+  position: absolute;
+  top: .1em;
+  font-size: .5em;
+  line-height: 1;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.dms-notes-dir-box::before {
+  content: attr(data-name);
+  left: .1em;
+}
+.dms-notes-dir-box::after {
+  content: attr(data-count);
+  right: .1em;
+  text-align: right;
+} */
