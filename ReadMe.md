@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.75&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.76&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -129,7 +129,7 @@
 
 ### 列表卡片（票据）
 
-- 使用说明：[笔记分布视图](./Docs/Dataview/Ticket-Card.md)
+- 使用说明：[列表卡片（票据）](./Docs/Dataview/Ticket-Card.md)
 - 相关文件：
     - [/Dataview/Ticket-Card/view.css](./Dataview/Ticket-Card/view.css)<sup>{{/Dataview/Ticket-Card/view.css}}</sup>
 
