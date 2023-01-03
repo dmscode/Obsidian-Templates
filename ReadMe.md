@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.74&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.75&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -34,6 +34,7 @@
     - [月历视图](#%E6%9C%88%E5%8E%86%E8%A7%86%E5%9B%BE)
     - [年历视图](#%E5%B9%B4%E5%8E%86%E8%A7%86%E5%9B%BE)
     - [笔记分布视图](#%E7%AC%94%E8%AE%B0%E5%88%86%E5%B8%83%E8%A7%86%E5%9B%BE)
+    - [列表卡片（票据）](#%E5%88%97%E8%A1%A8%E5%8D%A1%E7%89%87%E7%A5%A8%E6%8D%AE)
     - [自动打开入口笔记](#%E8%87%AA%E5%8A%A8%E6%89%93%E5%BC%80%E5%85%A5%E5%8F%A3%E7%AC%94%E8%AE%B0)
     - [侧边栏图标排序](#%E4%BE%A7%E8%BE%B9%E6%A0%8F%E5%9B%BE%E6%A0%87%E6%8E%92%E5%BA%8F)
     - [笔记内容分栏](#%E7%AC%94%E8%AE%B0%E5%86%85%E5%AE%B9%E5%88%86%E6%A0%8F)
@@ -125,6 +126,12 @@
 - 相关文件：
     - [/Dataview/Notes-Count-View/view.css](./Dataview/Notes-Count-View/view.css)<sup>2022-12-28 15:58:49</sup>
     - [/Dataview/Notes-Count-View/view.js](./Dataview/Notes-Count-View/view.js)<sup>2022-12-28 15:29:21</sup>
+
+### 列表卡片（票据）
+
+- 使用说明：[笔记分布视图](./Docs/Dataview/Ticket-Card.md)
+- 相关文件：
+    - [/Dataview/Ticket-Card/view.css](./Dataview/Ticket-Card/view.css)<sup>{{/Dataview/Ticket-Card/view.css}}</sup>
 
 ### 自动打开入口笔记
 
