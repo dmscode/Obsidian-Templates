@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.76&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.77&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -117,8 +117,8 @@
 
 - 使用说明：[年历视图](./Docs/Dataview/Year-View.md)
 - 相关文件：
-    - [/Dataview/Year-View/view.css](./Dataview/Year-View/view.css)<sup>2022-12-26 15:24:52</sup>
-    - [/Dataview/Year-View/view.js](./Dataview/Year-View/view.js)<sup>2022-12-26 10:29:15</sup>
+    - [/Dataview/Year-View/view.css](./Dataview/Year-View/view.css)<sup>2023-01-12 19:39:52</sup>
+    - [/Dataview/Year-View/view.js](./Dataview/Year-View/view.js)<sup>2023-01-12 19:40:06</sup>
 
 ### 笔记分布视图
 

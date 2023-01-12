@@ -1,8 +1,8 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-12-25 17:20:03
- * @LastEditTime    : 2022-12-26 10:29:15
- * @FilePath        : \Obsidian\Templates\Dataview\Year-View\view.js
+ * @LastEditTime    : 2023-01-12 19:40:06
+ * @FilePath        : \ob-templates\Dataview\Year-View\view.js
  * @Description     : 
  */
 /* ======== 参数定义 ======== */
@@ -148,7 +148,7 @@ const initYear = ()=>{
         if(dayNote && opt.taskMarksFunc) markColor = opt.taskMarksFunc(dayNote)
 
         return `${start}<a class="internal-link dms-year-month-day dms-year-month-weekday-${d.weekIndex}${d.isToday ? ' dms-year-today' : ''}" href="${dayNotePath}" data-href="${dayNotePath}" rel="noopener" target="_blank">
-          ${d.date}
+          <div>${d.date}</div>
           <div class="dms-year-day-mark" style="background-color: ${markColor}"></div>
         </a>${end}`
       }).join('')

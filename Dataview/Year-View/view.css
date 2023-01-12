@@ -1,12 +1,12 @@
 /*
  * @Author          : 稻米鼠
  * @Date            : 2022-12-25 17:20:13
- * @LastEditTime    : 2022-12-26 15:24:52
- * @FilePath        : \Obsidian\Templates\Dataview\Year-View\view.css
+ * @LastEditTime    : 2023-01-12 19:39:52
+ * @FilePath        : \ob-templates\Dataview\Year-View\view.css
  * @Description     : 
  */
 
-.dms-year-caption {
+ .dms-year-caption {
   text-align: center;
   font-size: 1.8em;
   font-weight: 700;
@@ -55,9 +55,11 @@
 .dms-year-month-box a.dms-year-month-day {
   text-decoration: none;
   position: relative;
-  display: block;
+  display: flex;
   z-index: 10;
   aspect-ratio: 1 / 1;
+  justify-content: center;
+  align-items: center;
 }
 .dms-year-month-box a.dms-year-month-day:hover {
   text-decoration: none;
