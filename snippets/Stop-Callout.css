@@ -10,6 +10,7 @@
 .callout[data-callout="hr-stop"] {
   --stop-yellow: #feab38;
   --stop-black: #333338;
+  --stop-white: #616060;  /*添加白色颜色参数*/
   --stop-width: 36px;
   --stop-border-width: 2px;
   --stop-paper-rotate: 3deg;
@@ -28,6 +29,12 @@
   border: var(--stop-border-width) solid var(--stop-black);
   border-radius: 3px;
 }
+@media (prefers-color-scheme: dark) {
+.callout[data-callout="hr-stop"]::before,
+.callout[data-callout="hr-stop"]::after {
+  border: var(--stop-border-width) solid var(--stop-white); /*深色模式下callout盒子边框改为可见度稍高的灰色*/
+}
+}
 .callout[data-callout="hr-stop"]::before {
   left: 0;
   border-right: 0;
@@ -41,6 +48,7 @@
   background: repeating-linear-gradient(-45deg, var(--stop-yellow), var(--stop-yellow) 15px, var(--stop-black) 15px, var(--stop-black) 30px);
   justify-content: center;
   border-radius: 3px;
+  border-left: none;  /*去掉callout标题左侧的块竖线*/
 }
 .callout[data-callout="hr-stop"] > .callout-title > .callout-icon {
   display: none;
@@ -54,4 +62,5 @@
   transform: rotate(var(--stop-paper-rotate));
   color: var(--stop-black);
   stroke: var(--stop-black);
+  border-left: none;  /*去掉callout内容左侧的块竖线*/
 }
