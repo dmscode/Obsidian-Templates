@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.80&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.81&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -52,6 +52,7 @@
     - [对选中行排序](#%E5%AF%B9%E9%80%89%E4%B8%AD%E8%A1%8C%E6%8E%92%E5%BA%8F)
     - [转换为大字符](#%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%A4%A7%E5%AD%97%E7%AC%A6)
     - [更新时间和日期](#%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4%E5%92%8C%E6%97%A5%E6%9C%9F)
+    - [选中内容另存为新笔记](#%E9%80%89%E4%B8%AD%E5%86%85%E5%AE%B9%E5%8F%A6%E5%AD%98%E4%B8%BA%E6%96%B0%E7%AC%94%E8%AE%B0)
 - [技巧分享](#%E6%8A%80%E5%B7%A7%E5%88%86%E4%BA%AB)
 - [计划](#%E8%AE%A1%E5%88%92)
     - [Next](#Next)
@@ -238,6 +239,12 @@
 - 使用说明：[更新时间和日期](./Docs/Templater/Update-Date-and-Time.md)
 - 相关文件：
     - [/Templater/Update-Date-and-Time.md](./Templater/Update-Date-and-Time.md)
+
+### 选中内容另存为新笔记
+
+- 使用说明：[选中内容另存为新笔记](./Docs/Templater/Save-selection-content.md)
+- 相关文件：
+    - [/Templater/Save-selection-content.md](./Templater/Save-selection-content.md)
 
 ## 技巧分享
 
