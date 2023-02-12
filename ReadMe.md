@@ -1,6 +1,6 @@
 # 自己的 Obsidian 模板
 
-![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.81&color=40AEF0&style=for-the-badge)
+![last-commit](https://img.shields.io/github/last-commit/dmscode/Obsidian-Templates?style=for-the-badge) ![version](https://img.shields.io/static/v1?label=Version&message=0.0.82&color=40AEF0&style=for-the-badge)
 
 ## 简介
 
@@ -257,8 +257,5 @@
 ## 计划
 
 ### Next
-
-- [>] 书签缩略图列表
-- [ ] 网页剪切缩略视图改为笔记卡片视图
 
 ### Plan
